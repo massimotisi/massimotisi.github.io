@@ -10,7 +10,7 @@ In my previous research life I have been a proud member of the Database and Web 
 
 In most of my current research I investigate:
 
-* [Relational Model Transformation](http://web.emn.fr/x-info/atlanmod/index.php?title=Model_Transformation)
+* [Model Transformation](http://web.emn.fr/x-info/atlanmod/index.php?title=Model_Transformation)
 * [Domain-Specific Languages](https://en.wikipedia.org/wiki/Domain-specific_language)
 * [Model Verification](http://web.emn.fr/x-info/atlanmod/index.php?title=Model_Quality)
 
