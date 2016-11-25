@@ -63,19 +63,19 @@ in Theory and Practice of Computer Science (SOFSEM)](http://sofsem14.ics.upjs.sk
   * [European Conference on Modelling Foundations and Applications (ECMFA)](http://ecmfa2014.lcc.uma.es/#)
 
 * **Panelist**
-  * [Education of Language Engineers (SLE panel)](http://www.sleconf.org/2014/Panel.html)
-  * [Panel Journées RT3](https://rth3.wp.mines-telecom.fr/journees-rt3/)
+  * [Education of Language Engineers at SLE](http://www.sleconf.org/2014/Panel.html)
+  * [Model-Driven Engineering at Journées RT3](https://rth3.wp.mines-telecom.fr/journees-rt3/)
 
 # 2013 and before
 
 * **Organizer**
-  * [Workshop on Scalable Model-Driven Engineering (BigMDE 2013)](https://big-mde.github.io/2013.html)
-  * [Workshop on Model transformations with ATL (MtATL 2010)](http://web.emn.fr/x-info/atlanmod/index.php?title=MtATL2010)
-  * [Workshop on Model transformations with ATL (MtATL 2009)](http://web.emn.fr/x-info/atlanmod/index.php?title=MtATL2009)
+  * [Workshop on Scalable Model-Driven Engineering (BigMDE) 2013](https://big-mde.github.io/2013.html)
+  * [Workshop on Model transformations with ATL (MtATL) 2010](http://web.emn.fr/x-info/atlanmod/index.php?title=MtATL2010)
+  * [Workshop on Model transformations with ATL (MtATL) 2009](http://web.emn.fr/x-info/atlanmod/index.php?title=MtATL2009)
 
 * **Program Committee Member** 
-  * [International Conference on Model Transformation (ICMT 2013)](http://www.model-transformation.org/ICMT2013/)
-  * [Demos and Posters Track at the International Conference on Web Engineering 2010 (ICWE 2010)](http://icwe2010.webengineering.org/Calls/demos.aspx)
+  * [International Conference on Model Transformation (ICMT) 2013](http://www.model-transformation.org/ICMT2013/)
+  * [Demos and Posters Track at the International Conference on Web Engineering 2010 (ICWE) 2010](http://icwe2010.webengineering.org/Calls/demos.aspx)
 
 * **Journal Reviewer**
   * [IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c)
@@ -88,14 +88,14 @@ in Theory and Practice of Computer Science (SOFSEM)](http://sofsem14.ics.upjs.sk
   * [Journal of Web Engineering (JWE)](http://www.rintonpress.com/journals/jwe/)  
 
 * **Conference Reviewer**
-  * [MoDELS 2010](http://models2010.ifi.uio.no/)
-  * [International Conference on Model Transformation (ICMT 2010)](http://www.model-transformation.org/ICMT2010/)  
-  * [International Conference on Web Engineering (ICWE 2010)](http://icwe2010.webengineering.org/)
-  * [International Conference on Data Engineering (ICDE 2009)](http://i.cs.hku.hk/icde2009/)
-  * [International Conference on Model Transformation (ICMT 2009)](http://www.model-transformation.org/ICMT2009/)
-  * [International Conference on Web Services (ICWS 2009)](http://www.servicescongress.org/2009/1/)
-  * [International World Wide Web Conference (WWW 2008)](http://wwwconference.org/www2008/)
-  * [International Conference on Web Engineering (ICWE 2008)](http://icwe2008.webengineering.org/)
-  * [International Conference on Web Services (ICWS 2008)](http://www.servicescongress.org/2009/1/)
-  * [International Conference on Web Engineering (ICWE 2008)](http://icwe.como.polimi.it/)
-  * [International Conference on Web Information Systems Engineering (WISE 2007)](http://wise2007.loria.fr/pmwiki/pmwiki.php)
+  * [International Conference on Model Driven Engineering Languages and Systems (MoDELS) 2010](http://models2010.ifi.uio.no/)
+  * [International Conference on Model Transformation (ICMT) 2010](http://www.model-transformation.org/ICMT2010/)  
+  * [International Conference on Web Engineering (ICWE) 2010](http://icwe2010.webengineering.org/)
+  * [International Conference on Data Engineering (ICDE) 2009](http://i.cs.hku.hk/icde2009/)
+  * [International Conference on Model Transformation (ICMT) 2009](http://www.model-transformation.org/ICMT2009/)
+  * [International Conference on Web Services (ICWS) 2009](http://www.servicescongress.org/2009/1/)
+  * [International World Wide Web Conference (WWW) 2008](http://wwwconference.org/www2008/)
+  * [International Conference on Web Engineering (ICWE) 2008](http://icwe2008.webengineering.org/)
+  * [International Conference on Web Services (ICWS) 2008](http://www.servicescongress.org/2009/1/)
+  * [International Conference on Web Engineering (ICWE) 2008](http://icwe.como.polimi.it/)
+  * [International Conference on Web Information Systems Engineering (WISE) 2007](http://wise2007.loria.fr/pmwiki/pmwiki.php)
