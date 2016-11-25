@@ -16,7 +16,7 @@ institute_url: http://www.emn.fr/z-info/atlanmod
 
 # Build settings
 markdown: kramdown
-theme: academic-minima
+theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
