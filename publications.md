@@ -11,7 +11,7 @@ You can find the list of my publications in my page on [DBLP](http://dblp.uni-tr
  	<td width="15%"/>
 	<td><a href="http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo"><img src="http://dblp.uni-trier.de/img/logo.png" alt="DBLP" style="width: 100px;"/></a></td>
     <td> <a href="https://scholar.google.fr/citations?user=5-tRnxkAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" alt="Google Scholar" style="width: 100px;"/></a></td>
-    <td width="100px"><a href="http://web.emn.fr/x-info/atlanmod/index.php?title=Publications"><img src="http://web.emn.fr/x-info/atlanmod/images/2/28/LogoAtlanmod135px.png" alt="AtlanMod publications page" style="width: 100px;"/></a></td>
+    <td width="100px"><a href="http://web.emn.fr/x-info/atlanmod/index.php?title=Publications"><img src="logo.png" alt="AtlanMod publications page" style="width: 100px;"/></a></td>
  	<td width="15%"/>
 </tr>
 </table>
