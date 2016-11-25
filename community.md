@@ -4,7 +4,7 @@ title: Community
 order: 4
 ---
 
-I have served as organizer and reviewer for the following venues.
+I have served as co-organizer and reviewer for the following venues.
 
 # 2016
 
