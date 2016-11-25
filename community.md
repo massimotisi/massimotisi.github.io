@@ -21,7 +21,7 @@ I have served as co-organizer and reviewer for the following venues.
   * [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=1743)
   * [Workshop on Models and Evolution (ME)](http://www.models-and-evolution.com/2016/)
 
-* **Reviewer**
+* **Journal Reviewer**
   * [IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c)
   * [Software and System Modeling (SoSyM)](http://www.sosym.org/)
 
@@ -37,7 +37,7 @@ in Theory and Practice of Computer Science (SOFSEM)](http://www.sofsem.cz/sofsem
   * [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2015.ece.mcgill.ca/)
   * [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=1619)
 
-* **Reviewer**
+* **Journal Reviewer**
   * [IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c)
   * [Journal of Software: Evolution and Process](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481)
   * [Software and System Modeling (SoSyM)](http://www.sosym.org/)
@@ -54,10 +54,12 @@ in Theory and Practice of Computer Science (SOFSEM)](http://sofsem14.ics.upjs.sk
   * [Industry Track for Software Language Engineering (ITSLE)](http://www.sleconf.org/2014/ITSLE.html)
   * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/2014/)
 
-* **Reviewer**
+* **Journal Reviewer**
   * [Journal of Logic and Algebraic Programming (JLAP)](http://www.journals.elsevier.com/the-journal-of-logic-and-algebraic-programming)
   * [NeuroComputing](http://www.journals.elsevier.com/neurocomputing)
   * [Journal of Web Engineering (JWE)](http://www.rintonpress.com/journals/jwe/)
+
+* **Conference Reviewer**
   * [European Conference on Modelling Foundations and Applications (ECMFA)](http://ecmfa2014.lcc.uma.es/#)
 
 * **Panelist**
@@ -75,7 +77,7 @@ in Theory and Practice of Computer Science (SOFSEM)](http://sofsem14.ics.upjs.sk
   * [International Conference on Model Transformation (ICMT 2013)](http://www.model-transformation.org/ICMT2013/)
   * [Demos and Posters Track at the International Conference on Web Engineering 2010 (ICWE 2010)](http://icwe2010.webengineering.org/Calls/demos.aspx)
 
-* **Reviewer**
+* **Journal Reviewer**
   * [IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c)
   * [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/)
   * [Journal of Logic and Algebraic Programming (JLAP)](http://www.journals.elsevier.com/the-journal-of-logic-and-algebraic-programming)
@@ -84,6 +86,8 @@ in Theory and Practice of Computer Science (SOFSEM)](http://sofsem14.ics.upjs.sk
   * [Software and System Modeling (SoSyM)](http://www.sosym.org/)
   * [Software: Practice and Experience](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-024X)
   * [Journal of Web Engineering (JWE)](http://www.rintonpress.com/journals/jwe/)  
+
+* **Conference Reviewer**
   * [MoDELS 2010](http://models2010.ifi.uio.no/)
   * [International Conference on Model Transformation (ICMT 2010)](http://www.model-transformation.org/ICMT2010/)  
   * [International Conference on Web Engineering (ICWE 2010)](http://icwe2010.webengineering.org/)
