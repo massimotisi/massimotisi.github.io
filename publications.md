@@ -22,7 +22,7 @@ Here are my current favorites:
 
 * Zheng Cheng, Massimo Tisi: Incremental Deductive Verification for Relational Model Transformations. ICST 2017: to appear
 
-* Salvador Martínez, Massimo Tisi, Remi Douence: [Reactive model transformation with ATL](http://www.sciencedirect.com/science/article/pii/S016764231630106X). Science of Computer Programming (2017).
+* Salvador Martínez, Massimo Tisi, Remi Douence: [Reactive model transformation with ATL](http://www.sciencedirect.com/science/article/pii/S016764231630106X). Science of Computer Programming (2017)
 
 * Soichiro Hidaka, Massimo Tisi, Jordi Cabot, Zhenjiang Hu:
 [Feature-based classification of bidirectional transformation approaches](https://hal.inria.fr/hal-01257169/file/bidirectionality.pdf). Software and System Modeling 15(3): 907-928 (2016)
