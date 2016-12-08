@@ -12,6 +12,9 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
   * Workshop on Scalable Model-Driven Engineering (BigMDE)
   * Project Showcase at Software Technologies: Applications and Foundations (STAF) 
 
+* **Program Committee Member** 
+  * Transformation Tool Contest (TTC)
+
 # 2016
 
 * **Organizer**
