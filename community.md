@@ -4,7 +4,13 @@ title: Community
 order: 4
 ---
 
-I have served as co-organizer and reviewer for the following venues.
+I have served (or will serve) as co-organizer and reviewer for the following venues.
+
+# 2017
+
+* **Organizer**
+  * Workshop on Scalable Model-Driven Engineering (BigMDE)
+  * Project Showcase at Software Technologies: Applications and Foundations (STAF) 
 
 # 2016
 
@@ -24,6 +30,7 @@ I have served as co-organizer and reviewer for the following venues.
 * **Journal Reviewer**
   * [IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c)
   * [Software and System Modeling (SoSyM)](http://www.sosym.org/)
+  * [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/)
 
 # 2015 
 
@@ -86,6 +93,7 @@ in Theory and Practice of Computer Science (SOFSEM)](http://sofsem14.ics.upjs.sk
   * [Software and System Modeling (SoSyM)](http://www.sosym.org/)
   * [Software: Practice and Experience](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-024X)
   * [Journal of Web Engineering (JWE)](http://www.rintonpress.com/journals/jwe/)  
+  * [Information Processing Letters (IPL)](http://www.journals.elsevier.com/information-processing-letters/)
 
 * **Conference Reviewer**
   * [International Conference on Model Driven Engineering Languages and Systems (MoDELS) 2010](http://models2010.ifi.uio.no/)
