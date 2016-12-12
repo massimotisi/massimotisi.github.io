@@ -23,7 +23,6 @@ Here you can find links to the courses and student projects I am responsible for
 * [Databases](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1546) (FING-A1)
 * [Sensibilization to Research: MDE](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532) (FIL-A3)
 * [PRIME Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621) (FING-A1)
-* [IPIPIP Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391) (FING-A1)
 * [PIST Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115) (FING-A2)
 * [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1540) (FING-A3)
 * [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1344) (FIL-A3)
