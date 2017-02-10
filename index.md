@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I am an Assistant Professor in the Department of Computer Science of [IMT Atlantique](http://www.mines-nantes.fr/) (France), in the [AtlanMod](http://web.emn.fr/x-info/atlanmod/index.php?title=Main_Page) team ([Inria](https://www.inria.fr/en/), [Mines Nantes](http://www.mines-nantes.fr/), [LS2N](http://ls2n.fr/)). 
+I am an Assistant Professor in the Department of Computer Science of the [Institut Mines-Telecom Atlantique](http://www.imt-atlantique.fr/) (France), in the [AtlanMod](http://web.emn.fr/x-info/atlanmod/index.php?title=Main_Page) team ([Inria](https://www.inria.fr/en/), [IMT Atlantique](http://www.imt-atlantique.fr/), [LS2N](http://ls2n.fr/)). 
 
 I research and teach [model-driven software engineering](https://en.wikipedia.org/wiki/Model-driven_engineering) and [domain-specific languages](https://en.wikipedia.org/wiki/Domain-specific_language). I have participated to the development of several software tools around the [ATL transformation language](https://www.eclipse.org/atl/) of the [Eclipse](https://eclipse.org/) Modelling project.
 
