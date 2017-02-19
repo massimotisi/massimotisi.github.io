@@ -14,6 +14,4 @@ In case you find yourself in a closed environment with me and you are looking fo
 * Videogames
 * Manga and anime
 * Philosophy
-* Productivity tools
 * Volleyball
-

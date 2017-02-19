@@ -4,11 +4,11 @@ title: Teaching
 order: 2
 ---
 
-Here you can find links to the courses and student projects I am responsible for (but you will need to be a Mines Nantes student to access most of them).
+Here you can find links to the courses and student projects I am responsible for (but you will need to be an IMT student to access most of them).
 
 # 2016-2017
 * [Domain-Specific Languages](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1609) (FING-A3-GSI, FIL-A3)
-* Model-Driven Engineering (FIL-A3) - in costruction...
+* [Model-Driven Engineering](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1628) (FIL-A3)
 * [Databases](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1598) (FING-A1)
 * [Sensibilization to Research: MDE](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532) (FIL-A3)
 * PRIME Project (FING-A1) - in costruction...

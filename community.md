@@ -13,7 +13,12 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
   * Project Showcase at Software Technologies: Applications and Foundations (STAF) 
 
 * **Program Committee Member** 
+  * [International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/)
   * Transformation Tool Contest (TTC)
+
+* **Journal Reviewer**
+  * [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/)
+  * [Software and System Modeling (SoSyM)](http://www.sosym.org/)
 
 # 2016
 
