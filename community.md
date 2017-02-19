@@ -9,12 +9,12 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
 # 2017
 
 * **Organizer**
-  * Workshop on Scalable Model-Driven Engineering (BigMDE)
-  * Project Showcase at Software Technologies: Applications and Foundations (STAF) 
+  * [Project Showcase at Software Technologies: Applications and Foundations (STAF)](http://www.informatik.uni-marburg.de/staf2017/index.php/projects-showcases/)
+  * [Workshop on Scalable Model-Driven Engineering (BigMDE)](http://www.big-mde.eu/)
 
 * **Program Committee Member** 
   * [International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/)
-  * Transformation Tool Contest (TTC)
+  * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/)
   * Tools and Demos at MoDELS Conference
 
 * **Journal Reviewer**
