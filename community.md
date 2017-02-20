@@ -15,6 +15,7 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
 * **Program Committee Member** 
   * [International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/)
   * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/)
+  * [Workshop on the Object Constraint Language (OCL)](http://oclworkshop.github.io/2017/)
   * Tools and Demos at MoDELS Conference
 
 * **Journal Reviewer**
