@@ -16,6 +16,7 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
   * [International Conference on Model Transformation (ICMT)](http://www.model-transformation.org/)
   * [International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/)
   * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/)
+  * [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2017.ece.mcgill.ca/)
   * [Workshop on the Object Constraint Language (OCL)](http://oclworkshop.github.io/2017/)
   * Tools and Demos at MoDELS Conference
 
