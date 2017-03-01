@@ -15,6 +15,7 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
 * **Program Committee Member** 
   * [International Conference on Model Transformation (ICMT)](http://www.model-transformation.org/)
   * [International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/)
+  * [Conférence en Ingénierie du Logiciel (CIEL)](https://ciel2016.sciencesconf.org/)
   * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/)
   * [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2017.ece.mcgill.ca/)
   * [Workshop on the Object Constraint Language (OCL)](http://oclworkshop.github.io/2017/)
