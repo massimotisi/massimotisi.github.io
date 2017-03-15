@@ -19,6 +19,7 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
   * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/)
   * [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2017.ece.mcgill.ca/)
   * [Workshop on the Object Constraint Language (OCL)](http://oclworkshop.github.io/2017/)
+  * [Short Papers Track at the International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/)
   * [Tools and Demos at MoDELS Conference (MoDELS)](http://www.cs.colostate.edu/~ghosh/models17_td/home_models17_td.html)
 
 * **Journal Reviewer**
