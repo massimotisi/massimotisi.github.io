@@ -7,6 +7,8 @@ order: 4
 I have served (or will serve) as co-organizer and reviewer for the following venues.
 
 # 2017
+* **Project Reviewer**
+  * Member of the Monitoring and Evaluation Committee at the [Pôle Images & Réseaux](http://www.images-et-reseaux.com/en)
 
 * **Organizer**
   * [Project Showcase at Software Technologies: Applications and Foundations (STAF)](http://www.informatik.uni-marburg.de/staf2017/index.php/projects-showcases/)
