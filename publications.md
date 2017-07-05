@@ -20,9 +20,11 @@ You can find the list of my publications in my page on [DBLP](http://dblp.uni-tr
 
 Here are my current favorites:
 
-* Zheng Cheng, Massimo Tisi: A Deductive Approach for Fault Localization in ATL Model Transformations. FASE 2017: to appear
+* Soichiro Hidaka, Frederic Jouaul, Massimo Tisi: On Additivity in Transformation Languages. MODELS 2017 (to appear)
 
-* Zheng Cheng, Massimo Tisi: Incremental Deductive Verification for Relational Model Transformations. ICST 2017: to appear
+* Zheng Cheng, Massimo Tisi: [A Deductive Approach for Fault Localization in ATL Model Transformations](https://hal.archives-ouvertes.fr/hal-01435977/file/FASE.pdf). FASE 2017
+
+* Zheng Cheng, Massimo Tisi: [Incremental Deductive Verification for Relational Model Transformations](https://hal.archives-ouvertes.fr/hal-01435974/file/PID4622069.pdf). ICST 2017
 
 * Salvador Martínez, Massimo Tisi, Remi Douence: [Reactive model transformation with ATL](http://www.sciencedirect.com/science/article/pii/S016764231630106X). Science of Computer Programming (2017)
 
