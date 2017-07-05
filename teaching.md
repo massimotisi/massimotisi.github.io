@@ -11,10 +11,10 @@ Here you can find links to the courses and student projects I am responsible for
 * [Model-Driven Engineering](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1628) (FIL-A3)
 * [Databases](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1598) (FING-A1)
 * [Sensibilization to Research: MDE](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532) (FIL-A3)
-* PRIME Project (FING-A1) - in costruction...
-* PIST Project (FING-A2) - in costruction...
+* [PRIME Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621) (FING-A1)
+* [PIST Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115) (FING-A2)
 * PFE Project (FING-A3) - in costruction...
-* PFE Project (FIL-A3) - in costruction...
+* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1344) (FIL-A3)
 
 # 2015-2016
 * [Domain-Specific Languages](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1571) (FING-A3-GSI, FIL-A3)
