@@ -17,19 +17,20 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
 * **Program Committee Member** 
   * [International Conference on Model Transformation (ICMT)](http://www.model-transformation.org/)
   * [International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/)
+  * [Tools and Demos at MoDELS Conference (MoDELS)](http://www.cs.colostate.edu/~ghosh/models17_td/home_models17_td.html)
+  * [Short Papers Track at the International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/)
   * [Conférence en Ingénierie du Logiciel (CIEL)](https://ciel2016.sciencesconf.org/)
   * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/)
   * [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2017.ece.mcgill.ca/)
   * [Workshop on the Object Constraint Language (OCL)](http://oclworkshop.github.io/2017/)
-  * [Short Papers Track at the International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/)
-  * [Tools and Demos at MoDELS Conference (MoDELS)](http://www.cs.colostate.edu/~ghosh/models17_td/home_models17_td.html)
+  * [Workshop on Debugging in Model-Driven Engineering (MDEbug)](https://msdl.uantwerpen.be/conferences/MDEbug/)
+  * [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=1820)
 
 * **Journal Reviewer**
   * [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/)
   * [Original Software Publications in Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-scico/)
   * [Software and System Modeling (SoSyM)](http://www.sosym.org/)
   * [Journal of Systems and Software (JSS)](http://www.journals.elsevier.com/journal-of-systems-and-software)
-
 
 # 2016
 
