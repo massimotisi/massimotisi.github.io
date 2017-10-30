@@ -6,6 +6,10 @@ order: 4
 
 I have served (or will serve) as co-organizer and reviewer for the following venues.
 
+# 2018
+* **Program Committee Member** 
+  * [International Conference on Web Engineering (ICWE)](http://icwe2018.webengineering.org/)
+
 # 2017
 * **Project Reviewer**
   * Member of the Monitoring and Evaluation Committee at the [Pôle Images & Réseaux](http://www.images-et-reseaux.com/en)
