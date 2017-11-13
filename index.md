@@ -11,7 +11,7 @@ In my previous research life I have been a proud member of the Database and Web 
 In most of my current research I investigate:
 
 * [Model Transformation](http://web.emn.fr/x-info/atlanmod/index.php?title=Model_Transformation)
+* [Deductive Verification in Model-Driven Engineering](http://web.emn.fr/x-info/atlanmod/index.php?title=Model_Quality)
 * [Domain-Specific Languages](https://en.wikipedia.org/wiki/Domain-specific_language)
-* [Model Verification](http://web.emn.fr/x-info/atlanmod/index.php?title=Model_Quality)
 
 You will not find much about these topics in this website. The best way to have more details on my research is browsing through my [publications](publications).
