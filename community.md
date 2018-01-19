@@ -7,8 +7,17 @@ order: 4
 I have served (or will serve) as co-organizer and reviewer for the following venues.
 
 # 2018
+* **Project Reviewer**
+  * Member of the Monitoring and Evaluation Committee at the [Pôle Images & Réseaux](http://www.images-et-reseaux.com/en)
+
 * **Program Committee Member** 
+  * [European Conference on Modelling Foundations and Applications (ECMFA)](http://eventmall.info/ecmfa2018/)
   * [International Conference on Web Engineering (ICWE)](http://icwe2018.webengineering.org/)
+  * [International Conference on Model Transformation (ICMT)](https://icmt2018.github.io/)
+  * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/)
+
+* **Journal Reviewer**
+  * [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/)
 
 # 2017
 * **Project Reviewer**
