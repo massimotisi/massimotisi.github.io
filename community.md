@@ -15,6 +15,7 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
   * [International Conference on Web Engineering (ICWE)](http://icwe2018.webengineering.org/)
   * [International Conference on Model Transformation (ICMT)](https://icmt2018.github.io/)
   * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/)
+  * [Workshop on Model-Driven Engineering for Design-Runtime Interaction in Complex Systems (MDE@DeRun)](https://megamart2-ecsel.eu/mde-derun-2018/)
 
 * **Journal Reviewer**
   * [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/)
