@@ -17,7 +17,11 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
   * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/)
   * [Short Papers Track at the International Conference on Web Engineering (ICWE)](http://icwe2018.webengineering.org/)
   * [Workshop on Model-Driven Engineering for Design-Runtime Interaction in Complex Systems (MDE@DeRun)](https://megamart2-ecsel.eu/mde-derun-2018/)
+  * [Workshop on Models and Evolution (ME)](http://www.models-and-evolution.com/2018/)
   * [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2018.ece.mcgill.ca/)
+  * [Workshop on the Object Constraint Language (OCL)](https://oclworkshop.github.io/2018/)
+  * [Workshop on Debugging in Model-Driven Engineering (MDEbug)](https://msdl.uantwerpen.be/conferences/MDEbug/2018/)
+  * [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=2173)
 
 * **Journal Reviewer**
   * [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/)
