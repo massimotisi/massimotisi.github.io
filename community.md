@@ -42,65 +42,41 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
 * [Journal of Systems and Software (JSS)](http://www.journals.elsevier.com/journal-of-systems-and-software) (Journal reviewer)
 
 # 2016
-
-* **Organizer**
-  * [Workshop on Scalable Model-Driven Engineering (BigMDE)](http://www.big-mde.eu/)
-
-* **Program Committee Member** 
-  * [International Conference on Model Transformation (ICMT)](http://is.ieis.tue.nl/research/ICMT16/)
-  * [Industry Track for Software Language Engineering (ITSLE)](http://2016.splashcon.org/track/itsle2016)
-  * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/)
-  * [Tool Demonstrations at the MoDELS Conference](http://models2016.irisa.fr/tool-demonstrations/)
-  * [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2016.ece.mcgill.ca/)
-  * [Workshop on the Object Constraint Language (OCL)](http://oclworkshop.github.io/2016/news.html)
-  * [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=1743)
-  * [Workshop on Models and Evolution (ME)](http://www.models-and-evolution.com/2016/)
-
-* **Journal Reviewer**
-  * [IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c)
-  * [Software and System Modeling (SoSyM)](http://www.sosym.org/)
-  * [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/)
+* [Workshop on Scalable Model-Driven Engineering (BigMDE)](http://www.big-mde.eu/) (Co-organizer)
+* [International Conference on Model Transformation (ICMT)](http://is.ieis.tue.nl/research/ICMT16/) (PC)
+* [Industry Track for Software Language Engineering (ITSLE)](http://2016.splashcon.org/track/itsle2016) (PC)
+* [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/) (PC)
+* [Tool Demonstrations at the MoDELS Conference](http://models2016.irisa.fr/tool-demonstrations/) (PC)
+* [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2016.ece.mcgill.ca/) (PC)
+* [Workshop on the Object Constraint Language (OCL)](http://oclworkshop.github.io/2016/news.html) (PC)
+* [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=1743) (PC)
+* [Workshop on Models and Evolution (ME)](http://www.models-and-evolution.com/2016/) (PC)
+* [IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c) (Journal reviewer)
+* [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
+* [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/) (Journal reviewer)
 
 # 2015 
-
-* **Organizer**
-  * [Workshop on Scalable Model-Driven Engineering (BigMDE)](https://big-mde.github.io/2015.html)
-
-* **Program Committee Member** 
-  * [International Conference on Model Transformation (ICMT)](http://www.di.univaq.it/diruscio/sites/ICMT2015/)
-  * [International Conf. on Current Trends
-in Theory and Practice of Computer Science (SOFSEM)](http://www.sofsem.cz/sofsem15/)
-  * [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2015.ece.mcgill.ca/)
-  * [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=1619)
-
-* **Journal Reviewer**
-  * [IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c)
-  * [Journal of Software: Evolution and Process](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481)
-  * [Software and System Modeling (SoSyM)](http://www.sosym.org/)
+* [Workshop on Scalable Model-Driven Engineering (BigMDE)](https://big-mde.github.io/2015.html) (Co-organizer)
+* [International Conference on Model Transformation (ICMT)](http://www.di.univaq.it/diruscio/sites/ICMT2015/) (PC)
+* [International Conf. on Current Trends in Theory and Practice of Computer Science (SOFSEM)](http://www.sofsem.cz/sofsem15/) (PC)
+* [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2015.ece.mcgill.ca/) (PC)
+* [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=1619) (PC)
+* [IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c) (Journal reviewer)
+* [Journal of Software: Evolution and Process](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481) (Journal reviewer)
+* [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
 
 # 2014
-
-* **Organizer**
-  * [Workshop on Scalable Model-Driven Engineering (BigMDE)](https://big-mde.github.io/2014.html)
-
-* **Program Committee Member** 
-  * [International Conference on Model Transformation (ICMT)](http://www.di.univaq.it/ICMT2014/)
-  * [International Conf. on Current Trends
-in Theory and Practice of Computer Science (SOFSEM)](http://sofsem14.ics.upjs.sk/)
-  * [Industry Track for Software Language Engineering (ITSLE)](http://www.sleconf.org/2014/ITSLE.html)
-  * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/2014/)
-
-* **Journal Reviewer**
-  * [Journal of Logic and Algebraic Programming (JLAP)](http://www.journals.elsevier.com/the-journal-of-logic-and-algebraic-programming)
-  * [NeuroComputing](http://www.journals.elsevier.com/neurocomputing)
-  * [Journal of Web Engineering (JWE)](http://www.rintonpress.com/journals/jwe/)
-
-* **Conference Reviewer**
-  * [European Conference on Modelling Foundations and Applications (ECMFA)](http://ecmfa2014.lcc.uma.es/#)
-
-* **Panelist**
-  * [Education of Language Engineers at SLE](http://www.sleconf.org/2014/Panel.html)
-  * [Model-Driven Engineering at Journées RT3](https://rth3.wp.mines-telecom.fr/journees-rt3/)
+* [Workshop on Scalable Model-Driven Engineering (BigMDE)](https://big-mde.github.io/2014.html) (Co-organizer)
+* [Education of Language Engineers at SLE](http://www.sleconf.org/2014/Panel.html) (Panelist)
+* [Model-Driven Engineering at Journées RT3](https://rth3.wp.mines-telecom.fr/journees-rt3/) (Panelist)
+* [International Conference on Model Transformation (ICMT)](http://www.di.univaq.it/ICMT2014/) (PC)
+* [International Conf. on Current Trends in Theory and Practice of Computer Science (SOFSEM)](http://sofsem14.ics.upjs.sk/) (PC)
+* [Industry Track for Software Language Engineering (ITSLE)](http://www.sleconf.org/2014/ITSLE.html) (PC)
+* [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/2014/) (PC)
+* [Journal of Logic and Algebraic Programming (JLAP)](http://www.journals.elsevier.com/the-journal-of-logic-and-algebraic-programming) (Journal reviewer)
+* [NeuroComputing](http://www.journals.elsevier.com/neurocomputing) (Journal reviewer)
+* [Journal of Web Engineering (JWE)](http://www.rintonpress.com/journals/jwe/) (Journal reviewer)
+* [European Conference on Modelling Foundations and Applications (ECMFA)](http://ecmfa2014.lcc.uma.es/#) (Reviewer)
 
 # 2013 and before
 
