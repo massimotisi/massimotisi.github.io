@@ -6,11 +6,20 @@ order: 4
 
 I have served (or will serve) as co-organizer and reviewer for the following venues.
 
+# 2019
+* [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
+* [European Conference on Modelling Foundations and Applications (ECMFA)](https://staf2019.win.tue.nl/events/ecmfa19/) (PC)
+* [International Conference on Model Transformation (ICMT)](http://www.model-transformation.org/) (PC)
+* [STAF Junior Researcher Community Event (JRC)](https://staf2019.win.tue.nl/events/staf-jrc19/) (PC)
+* [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
+* [Journal of Systems and Software (JSS)](http://www.journals.elsevier.com/journal-of-systems-and-software) (Journal reviewer)
+
 # 2018
 * [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
-* [European Conference on Modelling Foundations and Applications (ECMFA)](http://eventmall.info/ecmfa2018/) (PC)
+* [MEASURE Industrial Workshop](http://measure.softeam-rd.eu/events-workshops/itea3measureindustrialworkshopeventinnanteson15thjune2018) (Keynote speaker)
+* [European Conference on Modelling Foundations and Applications (ECMFA)](http://eventmall.info/ecmfa2018/) (PC, Session chair)
 * [International Conference on Web Engineering (ICWE)](http://icwe2018.webengineering.org/) (PC)
-* [International Conference on Model Transformation (ICMT)](https://icmt2018.github.io/) (PC)
+* [International Conference on Model Transformation (ICMT)](https://icmt2018.github.io/) (PC, Session chair)
 * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/) (PC)
 * [Short Papers Track at the International Conference on Web Engineering (ICWE)](http://icwe2018.webengineering.org/) (PC)
 * [Workshop on Model-Driven Engineering for Design-Runtime Interaction in Complex Systems (MDE@DeRun)](https://megamart2-ecsel.eu/mde-derun-2018/) (PC)
@@ -21,6 +30,7 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
 * [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=2173) (PC)
 * [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/) (Journal reviewer)
 * [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
+* [Journal of Systems and Software (JSS)](http://www.journals.elsevier.com/journal-of-systems-and-software) (Journal reviewer)
 
 # 2017
 * [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
