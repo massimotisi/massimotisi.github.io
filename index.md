@@ -6,7 +6,7 @@ I am an Associate Professor in the Department of Computer Science of the [Instit
 
 I'm deputy team leader of the [naomod](https://naomod.github.io/) team ([IMT Atlantique](http://www.imt-atlantique.fr/), [LS2N](http://ls2n.fr/)). 
 
-Since 2019 I coordinate the [Lowcomote](https://www.lowcomote.eu/) Marie Curie European Training Network (ETN).
+Since 2019 I coordinate the [Lowcomote](https://www.lowcomote.eu/) Marie Curie European Training Network.
 
 I research and teach [model-driven software engineering](https://en.wikipedia.org/wiki/Model-driven_engineering) and [domain-specific languages](https://en.wikipedia.org/wiki/Domain-specific_language). I have participated to the development of several software tools around the [ATL transformation language](https://www.eclipse.org/atl/) of the [Eclipse](https://eclipse.org/) Modeling project.
 
