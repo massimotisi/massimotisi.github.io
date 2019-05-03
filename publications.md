@@ -23,7 +23,7 @@ Here are my current favorites:
 * Massimo Tisi, Zheng Cheng: [CoqTL: An Internal DSL for Model Transformation in Coq](https://hal.inria.fr/hal-01828344/document). ICMT 2018: 142-156
 * Amine Benelallam, Abel Gómez, Massimo Tisi, Jordi Cabot:
 [Distributing relational model transformation on MapReduce](https://hal.archives-ouvertes.fr/hal-01863885/document). Journal of Systems and Software 142: 1-20 (2018)
-* Soichiro Hidaka, Frederic Jouaul, Massimo Tisi: [On Additivity in Transformation Languages](https://hal.archives-ouvertes.fr/hal-01566259/document). MoDELS 2017: 23-33
+* Soichiro Hidaka, Frederic Jouault, Massimo Tisi: [On Additivity in Transformation Languages](https://hal.archives-ouvertes.fr/hal-01566259/document). MoDELS 2017: 23-33
 * Zheng Cheng, Massimo Tisi: [Incremental Deductive Verification for Relational Model Transformations](https://hal.archives-ouvertes.fr/hal-01435974/file/PID4622069.pdf). ICST 2017
 * Salvador Martínez, Massimo Tisi, Remi Douence: [Reactive model transformation with ATL](http://www.sciencedirect.com/science/article/pii/S016764231630106X). Science of Computer Programming (2017)
 * Soichiro Hidaka, Massimo Tisi, Jordi Cabot, Zhenjiang Hu:
