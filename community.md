@@ -7,20 +7,20 @@ order: 4
 I have served (or will serve) as co-organizer and reviewer for the following venues.
 
 # 2018
-* Member of the Monitoring and Evaluation Committee at the [Pôle Images & Réseaux](http://www.images-et-reseaux.com/en)
-* Program Committee Member at the [European Conference on Modelling Foundations and Applications (ECMFA)](http://eventmall.info/ecmfa2018/)
-* Program Committee Member at the [International Conference on Web Engineering (ICWE)](http://icwe2018.webengineering.org/)
-* Program Committee Member at the [International Conference on Model Transformation (ICMT)](https://icmt2018.github.io/)
-* Program Committee Member at the [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/)
-* Program Committee Member at the [Short Papers Track at the International Conference on Web Engineering (ICWE)](http://icwe2018.webengineering.org/)
-* Program Committee Member at the [Workshop on Model-Driven Engineering for Design-Runtime Interaction in Complex Systems (MDE@DeRun)](https://megamart2-ecsel.eu/mde-derun-2018/)
-* Program Committee Member at the [Workshop on Models and Evolution (ME)](http://www.models-and-evolution.com/2018/)
-* Program Committee Member at the [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2018.ece.mcgill.ca/)
-* Program Committee Member at the [Workshop on the Object Constraint Language (OCL)](https://oclworkshop.github.io/2018/)
-* Program Committee Member at the [Workshop on Debugging in Model-Driven Engineering (MDEbug)](https://msdl.uantwerpen.be/conferences/MDEbug/2018/)
-* Program Committee Member at the [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=2173)
-* Journal Reviewer for [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/)
-* Journal Reviewer for [Software and System Modeling (SoSyM)](http://www.sosym.org/)
+* [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
+* [European Conference on Modelling Foundations and Applications (ECMFA)](http://eventmall.info/ecmfa2018/) (PC)
+* [International Conference on Web Engineering (ICWE)](http://icwe2018.webengineering.org/) (PC)
+* [International Conference on Model Transformation (ICMT)](https://icmt2018.github.io/) (PC)
+* [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/) (PC)
+* [Short Papers Track at the International Conference on Web Engineering (ICWE)](http://icwe2018.webengineering.org/) (PC)
+* [Workshop on Model-Driven Engineering for Design-Runtime Interaction in Complex Systems (MDE@DeRun)](https://megamart2-ecsel.eu/mde-derun-2018/) (PC)
+* [Workshop on Models and Evolution (ME)](http://www.models-and-evolution.com/2018/) (PC)
+* [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2018.ece.mcgill.ca/) (PC)
+* [Workshop on the Object Constraint Language (OCL)](https://oclworkshop.github.io/2018/) (PC)
+* [Workshop on Debugging in Model-Driven Engineering (MDEbug)](https://msdl.uantwerpen.be/conferences/MDEbug/2018/) (PC)
+* [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=2173) (PC)
+* [Science of Computer Programming (SciCO) journal](http://www.journals.elsevier.com/science-of-computer-programming/) (Reviewer)
+* [Software and System Modeling (SoSyM) journal](http://www.sosym.org/) (Reviewer)
 
 # 2017
 * **Project Reviewer**
