@@ -4,7 +4,7 @@ title: Publications
 order: 0
 ---
 
-You can find the list of my publications in my page on [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo) or [Google Scholar](https://scholar.google.fr/citations?user=5-tRnxkAAAAJ&hl=en) and most of the pdfs in free access on the [NaoMod publications page](https://naomod.github.io/publications.html) or the [AtlanMod publications page](http://web.emn.fr/x-info/atlanmod/index.php?title=Publications).
+I have published more than 70 articles in peer-reviewed international conferences and journals. You can find the list of my publications in my page on [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo) or [Google Scholar](https://scholar.google.fr/citations?user=5-tRnxkAAAAJ&hl=en) and most of the pdfs in free access on the [NaoMod publications page](https://naomod.github.io/publications.html) or the [AtlanMod publications page](http://web.emn.fr/x-info/atlanmod/index.php?title=Publications).
 
 <table width="100%">
 <tr>                      <!-- 100% -->
