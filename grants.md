@@ -17,5 +17,5 @@ When I was in Politecnico di Milano, I participated in several research projects
 
 * [Energy CH-IT](http://www.fondazionepolitecnico.it/it/cosa-facciamo/progetti-di-innovazione/item/energy-ch-it-distretto-per-le-tecnologie-e-i-materiali-per-l-efficienza-energetica-dell-insubria)
 * [SECO: Search Computing](https://cordis.europa.eu/project/rcn/88591/factsheet/en)
-* [BISF – Business e Innovazione senza Frontiere](http://www.fondazionepolitecnico.it/it/cosa-facciamo/progetti-di-innovazione/item/bisf-business-e-innovazione-senza-frontiere)
+* [BISF: Business e Innovazione senza Frontiere](http://www.fondazionepolitecnico.it/it/cosa-facciamo/progetti-di-innovazione/item/bisf-business-e-innovazione-senza-frontiere)
 * [AutonomaMente](http://autonomamente.como.polimi.it/index85f3.html?option=com_content&task=view&id=15&Itemid=16)
