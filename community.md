@@ -25,6 +25,7 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
 
 * **Journal Reviewer**
   * [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/)
+  * [Software and System Modeling (SoSyM)](http://www.sosym.org/)
 
 # 2017
 * **Project Reviewer**
