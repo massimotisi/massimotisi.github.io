@@ -97,7 +97,7 @@
 
 .navigation-wrapper.has-logo {
     .navigation-links {
-        width: 70%;
+        width: 80%;
         float: left;
         @include media-query($on-palm) {
             width: 100%;
@@ -105,7 +105,7 @@
     }
     
     .navigation-logo {
-        width: 30%;
+        width: 20%;
         float: left;
         padding: 12px;
         box-sizing: border-box;
