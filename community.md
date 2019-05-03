@@ -19,34 +19,27 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
 * [Workshop on the Object Constraint Language (OCL)](https://oclworkshop.github.io/2018/) (PC)
 * [Workshop on Debugging in Model-Driven Engineering (MDEbug)](https://msdl.uantwerpen.be/conferences/MDEbug/2018/) (PC)
 * [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=2173) (PC)
-* [Science of Computer Programming (SciCO) journal](http://www.journals.elsevier.com/science-of-computer-programming/) (Reviewer)
-* [Software and System Modeling (SoSyM) journal](http://www.sosym.org/) (Reviewer)
+* [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/) (Journal reviewer)
+* [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
 
 # 2017
-* **Project Reviewer**
-  * Member of the Monitoring and Evaluation Committee at the [Pôle Images & Réseaux](http://www.images-et-reseaux.com/en)
-
-* **Organizer**
-  * [Project Showcase at Software Technologies: Applications and Foundations (STAF)](http://www.informatik.uni-marburg.de/staf2017/index.php/projects-showcases/)
-  * [Workshop on Scalable Model-Driven Engineering (BigMDE)](http://www.big-mde.eu/)
-
-* **Program Committee Member** 
-  * [International Conference on Model Transformation (ICMT)](http://www.model-transformation.org/)
-  * [International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/)
-  * [Tools and Demos at MoDELS Conference (MoDELS)](http://www.cs.colostate.edu/~ghosh/models17_td/home_models17_td.html)
-  * [Short Papers Track at the International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/)
-  * [Conférence en Ingénierie du Logiciel (CIEL)](https://ciel2016.sciencesconf.org/)
-  * [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/)
-  * [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2017.ece.mcgill.ca/)
-  * [Workshop on the Object Constraint Language (OCL)](http://oclworkshop.github.io/2017/)
-  * [Workshop on Debugging in Model-Driven Engineering (MDEbug)](https://msdl.uantwerpen.be/conferences/MDEbug/)
-  * [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=1820)
-
-* **Journal Reviewer**
-  * [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/)
-  * [Original Software Publications in Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-scico/)
-  * [Software and System Modeling (SoSyM)](http://www.sosym.org/)
-  * [Journal of Systems and Software (JSS)](http://www.journals.elsevier.com/journal-of-systems-and-software)
+* [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
+* [Project Showcase at Software Technologies: Applications and Foundations (STAF)](http://www.informatik.uni-marburg.de/staf2017/index.php/projects-showcases/) (Co-organizer)
+* [Workshop on Scalable Model-Driven Engineering (BigMDE)](http://www.big-mde.eu/) (Co-organizer)
+* [International Conference on Model Transformation (ICMT)](http://www.model-transformation.org/) (PC)
+* [International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/) (PC)
+* [Tools and Demos at MoDELS Conference (MoDELS)](http://www.cs.colostate.edu/~ghosh/models17_td/home_models17_td.html) (PC)
+* [Short Papers Track at the International Conference on Web Engineering (ICWE)](http://icwe2017.webengineering.org/) (PC)
+* [Conférence en Ingénierie du Logiciel (CIEL)](https://ciel2016.sciencesconf.org/) (PC)
+* [Transformation Tool Contest (TTC)](http://www.transformation-tool-contest.eu/) (PC)
+* [Workshop on Model-Driven Requirements Engineering (MoDRE)](http://www.modre2017.ece.mcgill.ca/) (PC)
+* [Workshop on the Object Constraint Language (OCL)](http://oclworkshop.github.io/2017/) (PC)
+* [Workshop on Debugging in Model-Driven Engineering (MDEbug)](https://msdl.uantwerpen.be/conferences/MDEbug/) (PC)
+* [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=1820) (PC)
+* [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/) (Journal reviewer)
+* [Original Software Publications in Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-scico/) (Journal reviewer)
+* [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
+* [Journal of Systems and Software (JSS)](http://www.journals.elsevier.com/journal-of-systems-and-software) (Journal reviewer)
 
 # 2016
 
