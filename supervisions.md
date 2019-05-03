@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grants
-order: 4
+title: Supervisions
+order: 3
 ---
 
 I am (or have been) the principal investigator of the [AtlanMod](http://web.emn.fr/x-info/atlanmod/index.php?title=Main_Page) team for the following funded collaborative projects (besides participating in [several others](http://web.emn.fr/x-info/atlanmod/index.php?title=Projects)):
