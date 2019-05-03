@@ -1,6 +1,6 @@
 title: Massimo Tisi
 author: Massimo Tisi
-email: firstname.lastname@mines-nantes.fr
+email: firstname.lastname@imt-atlantique.fr
 description: > # this means to ignore newlines until "baseurl:"
   My minimalistic academic page, pointing to my publications, 
   teaching material and organized events. 
@@ -10,9 +10,9 @@ github_username:  massimotisi
 
 profile_picture: profile.jpeg
 
-institute_name: AtlanMod team (Inria, IMT Atlantique, LS2N)
+institute_name: naomod team (IMT Atlantique, LS2N)
 institute_logo: logo.png
-institute_url: http://www.emn.fr/z-info/atlanmod
+institute_url: https://naomod.github.io/
 
 # Build settings
 markdown: kramdown
