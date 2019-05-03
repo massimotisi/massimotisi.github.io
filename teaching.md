@@ -6,6 +6,26 @@ order: 2
 
 Here you can find links to the courses and student projects I am responsible for (but you will need to be an IMT student to access most of them).
 
+# 2018-2019
+* [Domain-Specific Languages](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1767) (FING-A3-GSI, FIL-A3)
+* [Model-Driven Engineering](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1777) (FIL-A3)
+* [Databases](https://formations.imt-atlantique.fr/bd_ihm) (FING-A1)
+* [Sensibilization to Research: MDE](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532) (FIL-A3)
+* [PRIME Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621) (FING-A1)
+* [PIST Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115) (FING-A2)
+* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1540) (FING-A3)
+* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1344) (FIL-A3)
+
+# 2017-2018
+* [Domain-Specific Languages](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1687) (FING-A3-GSI, FIL-A3)
+* [Model-Driven Engineering](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1688) (FIL-A3)
+* [Databases](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1679) (FING-A1)
+* [Sensibilization to Research: MDE](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532) (FIL-A3)
+* [PRIME Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621) (FING-A1)
+* [PIST Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115) (FING-A2)
+* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1540) (FING-A3)
+* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1344) (FIL-A3)
+
 # 2016-2017
 * [Domain-Specific Languages](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1609) (FING-A3-GSI, FIL-A3)
 * [Model-Driven Engineering](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1628) (FIL-A3)
@@ -13,7 +33,7 @@ Here you can find links to the courses and student projects I am responsible for
 * [Sensibilization to Research: MDE](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532) (FIL-A3)
 * [PRIME Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621) (FING-A1)
 * [PIST Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115) (FING-A2)
-* PFE Project (FING-A3) - in costruction...
+* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1540) (FING-A3)
 * [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1344) (FIL-A3)
 
 # 2015-2016
