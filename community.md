@@ -11,6 +11,7 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
 * [European Conference on Modelling Foundations and Applications (ECMFA)](https://staf2019.win.tue.nl/events/ecmfa19/) (PC)
 * [International Conference on Model Transformation (ICMT)](http://www.model-transformation.org/) (PC)
 * [STAF Junior Researcher Community Event (JRC)](https://staf2019.win.tue.nl/events/staf-jrc19/) (PC)
+* [STAF Research Project Showcase Workshop](https://staf2019.win.tue.nl/events/staf-rps19/) (PC)
 * [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
 * [Journal of Systems and Software (JSS)](http://www.journals.elsevier.com/journal-of-systems-and-software) (Journal reviewer)
 
