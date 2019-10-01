@@ -5,6 +5,7 @@ order: 3
 ---
 
 I have (co-)supervised the following PhD candidates, post-doctoral researchers and research engineers:
+* Jolan Philippe (PhD Candidate)
 * Joachim Hotonnier (PhD Candidate)
 * Thibault Béziers la Fosse (PhD Candidate)
 * Imad Berruyne (PhD Candidate)
