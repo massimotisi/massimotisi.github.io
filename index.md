@@ -4,7 +4,7 @@ layout: home
 
 I am an Associate Professor in the Department of Computer Science of the [Institut Mines-Telecom Atlantique](http://www.imt-atlantique.fr/) (France). 
 
-I'm deputy team leader of the [naomod](https://naomod.github.io/) team ([IMT Atlantique](http://www.imt-atlantique.fr/), [LS2N](http://ls2n.fr/)). 
+I'm deputy team leader of the [naomod](https://naomod.github.io/) team ([IMT Atlantique](http://www.imt-atlantique.fr/), [LS2N, UMR CNRS 6004](http://ls2n.fr/)). 
 
 Since 2019 I coordinate the [Lowcomote](https://www.lowcomote.eu/) Marie Curie European Training Network.
 
