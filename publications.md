@@ -4,7 +4,8 @@ title: Publications
 order: 0
 ---
 
-I have published more than 70 articles in peer-reviewed international conferences and journals. You can find the list of my publications in my page on [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo) and most of the pdfs in free access on my [HAL page](https://cv.archives-ouvertes.fr/massimo-tisi).
+I have published more than 70 articles in peer-reviewed international conferences and journals. You can find the list of my publications in my page on [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo) and most of the pdfs in free access on my page on [HAL](https://cv.archives-ouvertes.fr/massimo-tisi).
+<br/>
 <br/>
 
 <table width="100%">
@@ -16,7 +17,7 @@ I have published more than 70 articles in peer-reviewed international conference
     <!--<td width="100px"><a href="http://web.emn.fr/x-info/atlanmod/index.php?title=Publications"><img src="logo.png" alt="AtlanMod publications page" style="width: 100px;"/></a></td>-->
  	<td width="30%"/>
 </tr>
-</table>
+</table>	
 
 
 <!--
