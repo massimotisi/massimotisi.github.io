@@ -19,7 +19,7 @@ I have published more than 70 articles in peer-reviewed international conference
 </tr>
 </table>	
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" src="http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo"/>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="100%" src="http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo"/>
 
 <!--
 Here are my current favorites:
