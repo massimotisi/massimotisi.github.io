@@ -8,12 +8,12 @@ I have published more than 70 articles in peer-reviewed international conference
 
 <table width="100%">
 <tr>                      <!-- 100% -->
- 	<td width="15%"/>
+ 	<td width="30%"/>
 	<td><a href="http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo"><img src="http://dblp.uni-trier.de/img/logo.png" alt="DBLP" style="width: 100px;"/></a></td>
-	<td><a href="https://cv.archives-ouvertes.fr/massimo-tisi"><img src="https://hal.archives-ouvertes.fr/public/hal.logo.png" alt="HAL" style="width: 100px;"/></a></td>
+	<td><a href="https://cv.archives-ouvertes.fr/massimo-tisi"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/LogoHAL.PNG" alt="HAL" style="width: 100px;"/></a></td>
     <!-- <td> <a href="https://scholar.google.fr/citations?user=5-tRnxkAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" alt="Google Scholar" style="width: 100px;"/></a></td> -->
     <!--<td width="100px"><a href="http://web.emn.fr/x-info/atlanmod/index.php?title=Publications"><img src="logo.png" alt="AtlanMod publications page" style="width: 100px;"/></a></td>-->
- 	<td width="15%"/>
+ 	<td width="30%"/>
 </tr>
 </table>
 
