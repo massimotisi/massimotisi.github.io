@@ -4,7 +4,7 @@ title: Publications
 order: 0
 ---
 
-I have published more than 70 articles in peer-reviewed international conferences and journals. You can find the list of my publications in my page on [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo) and most of the pdfs in free access on my page on [HAL](https://cv.archives-ouvertes.fr/massimo-tisi).
+I have published more than 70 articles in peer-reviewed international conferences and journals. You can find the list of my publications in my page on [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo) and most of the pdfs in free access here.
 <br/>
 <br/>
 
