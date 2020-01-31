@@ -4,7 +4,7 @@ title: Publications
 order: 0
 ---
 
-I have published more than 70 articles in peer-reviewed international conferences and journals (h-index: 21). 
+I have published more than 70 articles in international conferences and journals (h-index: 21). 
 
 You can find my publications on [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo) and some of the pdfs in free access here.
 <br/>
