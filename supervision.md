@@ -9,6 +9,7 @@ I have (co-)supervised the following PhD candidates, post-doctoral researchers a
 * Joachim Hotonnier (PhD Candidate - ongoing)
 * Thibault Béziers la Fosse (PhD Candidate - ongoing)
 * Imad Berruyne (PhD Candidate - ongoing)
+
 * Zheng Cheng (Post-doc researcher)
 * Gwendal Daniel (PhD Candidate)
 * Amine Benelallam (PhD Candidate)
