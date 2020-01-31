@@ -4,7 +4,8 @@ title: Publications
 order: 0
 ---
 
-I have published more than 70 articles in peer-reviewed international conferences and journals. You can find the list of my publications in my page on [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo) or [Google Scholar](https://scholar.google.fr/citations?user=5-tRnxkAAAAJ&hl=en) and most of the pdfs in free access on the [NaoMod publications page](https://naomod.github.io/publications.html) or the [AtlanMod publications page](http://web.emn.fr/x-info/atlanmod/index.php?title=Publications).
+I have published more than 70 articles in peer-reviewed international conferences and journals. You can find the list of my publications in my page on [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo) and most of the pdfs in free access on my [HAL page](https://cv.archives-ouvertes.fr/massimo-tisi).
+<br/>
 
 <table width="100%">
 <tr>                      <!-- 100% -->
@@ -18,7 +19,7 @@ I have published more than 70 articles in peer-reviewed international conference
 </table>
 
 
-
+<!--
 Here are my current favorites:
 
 * Massimo Tisi, Zheng Cheng: [CoqTL: An Internal DSL for Model Transformation in Coq](https://hal.inria.fr/hal-01828344/document). ICMT 2018: 142-156
@@ -31,6 +32,7 @@ Here are my current favorites:
 [Feature-based classification of bidirectional transformation approaches](https://hal.inria.fr/hal-01257169/file/bidirectionality.pdf). Software and System Modeling 15(3): 907-928 (2016)
 * Massimo Tisi, Frédéric Jouault, Piero Fraternali, Stefano Ceri, Jean Bézivin:
 [On the Use of Higher-Order Model Transformations](http://modeling-languages.com/wp-content/uploads/hot1.pdf). ECMDA-FA 2009: 18-33
+-->
 
 <!--{% include publications.html %}-->
 
