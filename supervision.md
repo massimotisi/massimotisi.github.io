@@ -23,6 +23,7 @@ I have participated to the supervision committee or the defense jury of the foll
 
 * Antonio Garmendía (Universidad Autonoma de Madrid)
 * Theo Le Calvar (ESEO Angers) 
+* Loli Burgueño (Universidad de Málaga)
 * Elena Planas Hortal (Universitat Oberta de Catalunya)
 * Romeo Marinelli (Università dell'Aquila)
 * Medhi Iraqi (Ecole Nationale Supérieure d’Arts et Métiers - CER d'Aix-en-Provence)
