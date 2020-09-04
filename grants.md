@@ -6,8 +6,9 @@ order: 4
 
 Between 2019 and 2022 I coordinate the [Lowcomote](https://www.lowcomote.eu/) project, a Marie Curie European Training Network (ETN) on Low-Code Engineering Platforms. Lowcomote involves 14 academic and industrial partners, wiht a 4M€ funding by EU.
 
-I am (or have been) the principal investigator of the [AtlanMod](http://web.emn.fr/x-info/atlanmod/index.php?title=Main_Page) team for the following funded collaborative projects (besides participating in [several others](http://web.emn.fr/x-info/atlanmod/index.php?title=Projects)):
+I am (or have been) principal investigator for the [AtlanMod](http://web.emn.fr/x-info/atlanmod/index.php?title=Main_Page) or NaoMod team for the following funded collaborative projects (besides participating in [several others](http://web.emn.fr/x-info/atlanmod/index.php?title=Projects)):
 * [Lowcomote](https://www.lowcomote.eu/): Marie Curie European Training Network (ETN) on Low-Code Engineering Platforms (Coordinator, 2019-2022)
+* [CYCLOPS](http://massimotisi.github.io): ANR MRSEI project on Domain-Specific Model-Centric Engineering of Smart Cyber-Physical Systems of Systems (Coordinator, 2019-2021)
 * [MegaM@RT2](https://megamart2-ecsel.eu/): ECSEL project on a scalable model-based framework for continuous development and runtime validation of complex systems (Co-investigator, 2017-2020)
 * [MONDO](http://www.mondo-project.org/): EC FP7 STREP project on scalable model-driven engineering (Principal Investigator, 2013-2016)
 * [AutoMobile](http://automobile.webratio.com/): EC FP7 Research for SMEs project on Automated Mobile App Development (Principal Investigator, 2013-2015)

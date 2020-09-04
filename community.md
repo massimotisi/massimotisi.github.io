@@ -6,6 +6,15 @@ order: 5
 
 I have served (or will serve) as co-organizer and reviewer for the following venues.
 
+# 2020
+* [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
+* [Lowcode Workshop (Lowcode)](https://lowcode-workshop.github.io/) (Organizer)
+* [International Conference on Model Driven Engineering Languages and Systems (MODELS)](https://modelsconference.org/) (PC)
+* [European Conference on Modelling Foundations and Applications (ECMFA)](https://staf2019.win.tue.nl/events/ecmfa20/) (PC)
+* [Workshop on Software Foundations for Data Interoperability @VLDB (SFDI)](http://www.biscuits.work/fourth-workshop/) (PC)
+* [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
+* [Interaction Design and Architecture(s) Journal (IxD&A)](http://interfacce.mifav.uniroma2.it/inevent/events/idea2010/?s=9) (Journal reviewer)
+
 # 2019
 * [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
 * [International Conference on Model Driven Engineering Languages and Systems (MODELS)](https://modelsconf19.org/) (PC)
