@@ -7,10 +7,10 @@ order: 3
 I have (co-)supervised the following PhD candidates, post-doctoral researchers and research engineers:
 * Jolan Philippe (PhD Candidate - ongoing)
 * Joachim Hotonnier (PhD Candidate - ongoing)
-* Thibault Béziers la Fosse (PhD Candidate - ongoing)
-* Imad Berruyne (PhD Candidate - ongoing)
 * Zahra Rajaei (PhD Candidate - ongoing)
 
+* Imad Berruyne (PhD Candidate)
+* Thibault Béziers la Fosse (PhD Candidate)
 * Zheng Cheng (Post-doc researcher)
 * Gwendal Daniel (PhD Candidate)
 * Amine Benelallam (PhD Candidate)
