@@ -16,6 +16,7 @@ I have served (or will serve) as co-organizer and reviewer for the following ven
 * [Interaction Design and Architecture(s) Journal (IxD&A)](http://interfacce.mifav.uniroma2.it/inevent/events/idea2010/?s=9) (Journal reviewer)
 
 # 2019
+* [Software Technologies: Applications and Foundations (STAF)](https://staf2019.win.tue.nl/) (Workshop Chair)
 * [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
 * [International Conference on Model Driven Engineering Languages and Systems (MODELS)](https://modelsconf19.org/) (PC)
 * [European Conference on Modelling Foundations and Applications (ECMFA)](https://staf2019.win.tue.nl/events/ecmfa19/) (PC)
