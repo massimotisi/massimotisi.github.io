@@ -4,7 +4,7 @@ title: Grants
 order: 4
 ---
 
-Between 2019 and 2022 I coordinate the [Lowcomote](https://www.lowcomote.eu/) project, a Marie Curie European Training Network (ETN) on Low-Code Engineering Platforms. Lowcomote involves 14 academic and industrial partners, wiht a 4M€ funding by EU.
+Between 2019 and 2023 I coordinate the [Lowcomote](https://www.lowcomote.eu/) project, a Marie Curie European Training Network (ETN) on Low-Code Engineering Platforms.
 
 I am (or have been) principal investigator for the [AtlanMod](http://web.emn.fr/x-info/atlanmod/index.php?title=Main_Page) or NaoMod team for the following funded collaborative projects (besides participating in [several others](http://web.emn.fr/x-info/atlanmod/index.php?title=Projects)):
 * [Lowcomote](https://www.lowcomote.eu/): Marie Curie European Training Network (ETN) on Low-Code Engineering Platforms (Coordinator, 2019-2022)
