@@ -7,6 +7,7 @@ order: 4
 Between 2019 and 2023 I coordinate the [Lowcomote](https://www.lowcomote.eu/) project, a Marie Curie European Training Network (ETN) on Low-Code Engineering Platforms.
 
 I am (or have been) principal investigator for the [AtlanMod](http://web.emn.fr/x-info/atlanmod/index.php?title=Main_Page) or NaoMod team for the following funded collaborative projects (besides participating in [several others](http://web.emn.fr/x-info/atlanmod/index.php?title=Projects)):
+* [AIDOaRT](https://www.aidoart.eu/): H2020-ECSEL project on AI-augmented automation supporting modeling, coding, testing, monitoring, and continuous development in Cyber-Physical Systems (Co-investigator, 2021-2024)
 * [Lowcomote](https://www.lowcomote.eu/): Marie Curie European Training Network (ETN) on Low-Code Engineering Platforms (Coordinator, 2019-2022)
 * [CYCLOPS](http://massimotisi.github.io): ANR MRSEI project on Domain-Specific Model-Centric Engineering of Smart Cyber-Physical Systems of Systems (Coordinator, 2019-2021)
 * [MegaM@RT2](https://megamart2-ecsel.eu/): ECSEL project on a scalable model-based framework for continuous development and runtime validation of complex systems (Co-investigator, 2017-2020)
