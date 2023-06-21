@@ -15,7 +15,7 @@ I have (co-)supervised the following PhD students, post-doctoral researchers and
 
 * Jolan Philippe (PhD Student)
 * Joachim Hotonnier (PhD Student)
-* Imad Berruyne (PhD Student)
+* Imad Berruyne (PhD Student, excellent mention)
 * Thibault Béziers la Fosse (PhD Student)
 * Zheng Cheng (Post-doc researcher)
 * Gwendal Daniel (PhD Student, Research Engineer)
@@ -28,11 +28,13 @@ I have (co-)supervised the following PhD students, post-doctoral researchers and
 
 I have participated to the supervision committee of the following phd students:
 
+* Maxime Mere (INSA Rennes)
 * Vianney Sicard (INRAE)
 * Theo Le Calvar (ESEO Angers) 
 
 I have participated to the thesis review or defense jury of the following phd students:
 
+* Vianney Sicard (INRAE)
 * Antonio Garmendía (Universidad Autonoma de Madrid)
 * Loli Burgueño (Universidad de Málaga)
 * Elena Planas Hortal (Universitat Oberta de Catalunya)
