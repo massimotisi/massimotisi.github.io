@@ -31,12 +31,11 @@ I have supervised the following postdocs and research engineers:
 
 I have participated to the thesis review or defense jury of the following phd students:
 
-* Vianney Sicard (INRAE)
-* Antonio Garmendía (Universidad Autonoma de Madrid)
-* Loli Burgueño (Universidad de Málaga)
-* Elena Planas Hortal (Universitat Oberta de Catalunya)
-* Romeo Marinelli (Università dell'Aquila)
-* Medhi Iraqi (Ecole Nationale Supérieure d’Arts et Métiers - CER d'Aix-en-Provence)
+* Antonio Garmendía (Jury Member, 8 November 2019, Universidad Autonoma de Madrid) 
+* Loli Burgueño (External Reviewer, Universidad de Málaga)
+* Romeo Marinelli (External Reviewer, Università dell'Aquila)
+* Elena Planas Hortal (External Reviewer, Universitat Oberta de Catalunya)
+* Medhi Iraqi (Jury Member, 15 September 2014, Ecole Nationale Supérieure d'Arts et Métiers - CER d'Aix-en-Provence)
 
 I have participated to the supervision committee (CSI) of the following phd students:
 
