@@ -6,6 +6,16 @@ order: 5
 
 I have served as co-organizer and reviewer for the following venues.
 
+# 2021
+* [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
+* [International Conference on Model Driven Engineering Languages and Systems (MODELS)](https://modelsconference.org/) (PC, Artifact Evaluation Chair)
+* [Lowcode Workshop (Lowcode)](https://lowcode-workshop.github.io/) (Organizer)
+* [Advances in Production Management Systems (APMS)](https://www.apms-conference.org/past-conferences/apms-2021/)(Special Session Organizer)
+* [European Conference on Modelling Foundations and Applications (ECMFA)](https://staf2019.win.tue.nl/events/ecmfa20/) (PC)
+* [International Workshop on Model-Driven Engineering of Digital Twins](https://gemoc.org/events/moddit2021.html) (PC)
+* [IEEE Transactions of Software Engineering](https://www.computer.org/web/tse)(Journal Reviewer)
+* [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
+
 # 2020
 * [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
 * [Lowcode Workshop (Lowcode)](https://lowcode-workshop.github.io/) (Organizer)
