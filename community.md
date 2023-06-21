@@ -6,14 +6,27 @@ order: 5
 
 I have served as co-organizer and reviewer for the following venues.
 
+# 2023
+* [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
+* [International Conference on Model Driven Engineering Languages and Systems (MODELS)](https://modelsconference.org/) (Workshops PC)
+* [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
+
+# 2022
+* [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
+* [Software Technologies: Applications and Foundations (STAF)](https://staf2022.univ-nantes.io/) (General Chair)
+* [Lowcode Workshop (Lowcode)](https://lowcode-workshop.github.io/) (Organizer)
+* [International Workshop on Games and Software Engineering (GAS)](https://conf.researchr.org/home/icse-2022/gas-2022) (PC)
+* [International Workshop on Modeling Language Engineering (MLE)](https://mleworkshop.github.io/editions/mle2022/)
+* [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
+
 # 2021
 * [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)
 * [International Conference on Model Driven Engineering Languages and Systems (MODELS)](https://modelsconference.org/) (PC, Artifact Evaluation Chair)
 * [Lowcode Workshop (Lowcode)](https://lowcode-workshop.github.io/) (Organizer)
 * [Advances in Production Management Systems (APMS)](https://www.apms-conference.org/past-conferences/apms-2021/)(Special Session Organizer)
 * [European Conference on Modelling Foundations and Applications (ECMFA)](https://staf2019.win.tue.nl/events/ecmfa20/) (PC)
-* [International Workshop on Model-Driven Engineering of Digital Twins](https://gemoc.org/events/moddit2021.html) (PC)
-* [IEEE Transactions of Software Engineering](https://www.computer.org/web/tse)(Journal Reviewer)
+* [International Workshop on Model-Driven Engineering of Digital Twins (MODDIT)](https://gemoc.org/events/moddit2021.html) (PC)
+* [IEEE Transactions of Software Engineering (TSE)](https://www.computer.org/web/tse)(Journal Reviewer)
 * [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
 
 # 2020
