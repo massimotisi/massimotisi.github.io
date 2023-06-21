@@ -4,7 +4,10 @@ title: Supervision
 order: 3
 ---
 
+Since 2022 I am member of the council of the [SPIN Doctoral School](https://ed-spin.doctorat-bretagne.fr/) and member of the Doctoral Affairs service at [LS2N (UMR CNRS 6004)](http://www.ls2n.fr/).
+
 I have (co-)supervised the following PhD candidates, post-doctoral researchers and research engineers:
+
 * Jolan Philippe (PhD Candidate - ongoing)
 * Joachim Hotonnier (PhD Candidate - ongoing)
 * Zahra Rajaei (PhD Candidate - ongoing)
