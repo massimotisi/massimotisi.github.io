@@ -17,7 +17,7 @@
 \usepackage[T1]{fontenc}
 \usepackage[bitstream-charter]{mathdesign}
 \usepackage[scaled=0.85]{beramono}
-\usepackage[resetlabels]{multibib}
+\usepackage[resetlabels,labeled]{multibib}
 \usepackage[utf8]{inputenc}
 \usepackage{enumitem}
 \setlist{noitemsep}
@@ -25,12 +25,12 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
-\newcites{journal}{International Journal Papers}
-\newcites{conference}{International Conference Papers}
-\newcites{workshop}{International Workshop Papers}
-\newcites{technical}{Technical Reports}
-\newcites{proceedings}{Editing}
-\newcites{chapter}{Book Chapters}
+\newcites{JP}{International Journal Papers}
+\newcites{CP}{International Conference Papers}
+\newcites{WS}{International Workshop Papers}
+\newcites{TR}{Technical Reports}
+\newcites{ED}{Editing}
+\newcites{CH}{Book Chapters}
 
 % Set your name here
 \def\name{Massimo Tisi}
@@ -168,28 +168,28 @@
 \newpage
 \section{Publication list}
 
-\nocitejournal{*}
-\bibliographystylejournal{plainyr-rev}
-\bibliographyjournal{my-journals}
+\nociteJP{*}
+\bibliographystyleJP{plainyr-rev}
+\bibliographyJP{my-journals}
 
-\nocitechapter{*}
-\bibliographystylechapter{plainyr-rev}
-\bibliographychapter{my-chapters}
+\nociteCH{*}
+\bibliographystyleCH{plainyr-rev}
+\bibliographyCH{my-chapters}
 
-\nociteproceedings{*}
-\bibliographystyleproceedings{plainyr-rev}
-\bibliographyproceedings{my-editings}
+\nociteED{*}
+\bibliographystyleED{plainyr-rev}
+\bibliographyED{my-editings}
 
-\nociteconference{*}
-\bibliographystyleconference{plainyr-rev}
-\bibliographyconference{my-conferences}
+\nociteCP{*}
+\bibliographystyleCP{plainyr-rev}
+\bibliographyCP{my-conferences}
 
-\nociteworkshop{*}
-\bibliographystyleworkshop{plainyr-rev}
-\bibliographyworkshop{my-workshops}
+\nociteWS{*}
+\bibliographystyleWS{plainyr-rev}
+\bibliographyWS{my-workshops}
 
-\nocitetechnical{*}
-\bibliographystyletechnical{plainyr-rev}
-\bibliographytechnical{my-reports}
+\nociteTR{*}
+\bibliographystyleTR{plainyr-rev}
+\bibliographyTR{my-reports}
 
 \end{document}
