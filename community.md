@@ -4,7 +4,7 @@ title: Community
 order: 5
 ---
 
-I have served (or will serve) as co-organizer and reviewer for the following venues.
+I have served as co-organizer and reviewer for the following venues.
 
 # 2020
 * [Monitoring and Evaluation Committee at the Pôle Images & Réseaux](http://www.images-et-reseaux.com/en) (Member)

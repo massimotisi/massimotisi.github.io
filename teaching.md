@@ -4,7 +4,7 @@ title: Teaching
 order: 2
 ---
 
-Here you can find links to the courses and student projects I am responsible for (but you will need to be an IMT student to access most of them).
+I have been responsible for the following courses and student projects (a student account is required to access most of the links).
 
 # 2020-2021
 * [Domain-Specific Languages and Model-Driven Engineering](https://moodle.imt-atlantique.fr/course/view.php?id=313) (FING-A3-GSI, FIL-A3)
