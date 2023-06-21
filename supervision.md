@@ -10,7 +10,7 @@ I have (co-)supervised the following PhD students, post-doctoral researchers and
 
 * Matthew Coyle (PhD Student - ongoing)
 * Josselin Enet (PhD Student - ongoing)
-* James Miranda (PhD Student - ongoing)
+* James Pontes Miranda (PhD Student - ongoing)
 * Zahra Rajaei (PhD Student - ongoing)
 
 * Jolan Philippe (PhD Student)
@@ -28,6 +28,7 @@ I have (co-)supervised the following PhD students, post-doctoral researchers and
 
 I have participated to the supervision committee of the following phd students:
 
+* Chahrazed Boudjemila (IMT Atlantique)
 * Maxime Mere (INSA Rennes)
 * Vianney Sicard (INRAE)
 * Theo Le Calvar (ESEO Angers) 
