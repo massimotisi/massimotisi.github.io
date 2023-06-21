@@ -33,6 +33,7 @@ I have supervised the following postdocs and research engineers:
 I have participated to the thesis review or defense jury of the following phd students:
 
 * Antonio Garmendía (jury member, 8 November 2019, Universidad Autonoma de Madrid) 
+* Gwendal Daniel (invited jury member, 14 November 2017, IMT Atlantique)
 * Romeo Marinelli (thesis reviewer, 2016, Università dell'Aquila)
 * Loli Burgueño (thesis reviewer, 2016, Universidad de Málaga)
 * Elena Planas Hortal (thesis reviewer, 2013, Universitat Oberta de Catalunya)
