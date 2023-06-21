@@ -8,16 +8,17 @@ Since 2022 I am member of the council of the [SPIN Doctoral School](https://ed-s
 
 I have co-supervised the following PhD students:
 
-* Matthew Coyle
-* Josselin Enet
-* James Pontes Miranda
-* Zahra Rajaei
+* Matthew Coyle, 2022-ongoing, Title: "Automated reconfiguration by AI-augmented model transformation", Supervision 30%, Director: Samir Loudni, LS2N
+* James Pontes Miranda, 2022-ongoing, Title: "AI-Augmented Support for Model Views", Supervision 30%, Director: Gerson Sunyè, LS2N
+* Josselin Enet, 2021-ongoing, Title: "Protocol-based Generic Tooling for Domain-Specific Languages", Supervision 30%, Director: Gerson Sunyè, LS2N
+* Zahra Rajaei, 2018-ongoing, Title: "A model-driven framework for leveraging graph deep learning in model-driven engineering", Advisor, Director: Shekoufeh Kolahdouz-Rahimi, University of Isfahan, Iran
 
-* Jolan Philippe
-* Joachim Hotonnier
-* Imad Berruyne (excellent mention)
-* Thibault Béziers la Fosse
-* Amine Benelallam
+* Jolan Philippe, 2020-2022, Title: "Contribution to the Analysis of the Design-Space of a Distributed Transformation Engine", Supervision 30%, Director: Gerson Sunyè, LS2N
+* Joachim Hotonnier, 2018-2021 (abandoned), Title: "Deep Specification for Domain-Specific Modeling", Supervision 30%, Director: Gerson Sunyè, LS2N
+* Thibault Béziers la Fosse, 2018-2021, Title: "Model-driven   Methods for Dynamic Analysis applied to Energy-Aware Software
+Engineering", Supervision 30%, Director: Gerson Sunyè, LS2N
+* Imad Berrouyne, 2018-2021, Title: "A Model-Driven Methodology to Unify Software Engineering in the Internet of Things", Supervision 30%, Director: Gerson Sunyè, Cotutelle IMT Atlantique et Université du Québec à Chicoutimi (UQAC), **Mention UQAC: excellent**
+* Amine Benelallam, 2014-2016, Title: "Model transformation on distributed platforms: decentralized persistence and distributed processing", Supervision 30%, Director: Jordi Cabot, Ecole des Mines de Nantes
 
 I have supervised the following postdocs and research engineers:
 
