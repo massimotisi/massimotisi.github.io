@@ -16,7 +16,7 @@ I have served as co-organizer and reviewer for the following venues.
 * [Software Technologies: Applications and Foundations (STAF)](https://staf2022.univ-nantes.io/) (General Chair)
 * [Lowcode Workshop (Lowcode)](https://lowcode-workshop.github.io/) (Organizer)
 * [International Workshop on Games and Software Engineering (GAS)](https://conf.researchr.org/home/icse-2022/gas-2022) (PC)
-* [International Workshop on Modeling Language Engineering (MLE)](https://mleworkshop.github.io/editions/mle2022/)
+* [International Workshop on Modeling Language Engineering (MLE)](https://mleworkshop.github.io/editions/mle2022/)(PC)
 * [Software and System Modeling (SoSyM)](http://www.sosym.org/) (Journal reviewer)
 
 # 2021
