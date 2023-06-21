@@ -4,7 +4,7 @@ title: Teaching
 order: 2
 ---
 
-I have been responsible for the following courses and student projects at IMT Atlantique, formerly at Ecole de Mines de Nantes (a student account is required to access most of the links).
+I have been responsible for the following courses and student projects at [IMT Atlantique](https://www.imt-atlantique.fr/), formerly at Ecole de Mines de Nantes (a student account is required to access most of the links).
 
 # 2022-2023
 * [Software Engineering and Modeling](https://moodle.imt-atlantique.fr/course/view.php?id=1481) (FIT-A2)
