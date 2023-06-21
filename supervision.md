@@ -32,9 +32,9 @@ I have supervised the following postdocs and research engineers:
 I have participated to the thesis review or defense jury of the following phd students:
 
 * Antonio Garmendía (jury member, 8 November 2019, Universidad Autonoma de Madrid) 
-* Loli Burgueño (thesis reviewer, Universidad de Málaga)
-* Romeo Marinelli (thesis reviewer, Università dell'Aquila)
-* Elena Planas Hortal (thesis reviewer, Universitat Oberta de Catalunya)
+* Romeo Marinelli (thesis reviewer, 2016, Università dell'Aquila)
+* Loli Burgueño (thesis reviewer, 2016, Universidad de Málaga)
+* Elena Planas Hortal (thesis reviewer, 2013, Universitat Oberta de Catalunya)
 * Medhi Iraqi (jury member, 15 September 2014, Ecole Nationale Supérieure d'Arts et Métiers - CER d'Aix-en-Provence)
 
 I have participated to the supervision committee (CSI) of the following phd students:
