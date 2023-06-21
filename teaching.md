@@ -4,7 +4,7 @@ title: Teaching
 order: 2
 ---
 
-I have been responsible for the following courses and student projects (a student account is required to access most of the links).
+I have been responsible for the following courses and student projects at IMT Atlantique, formerly at Ecole de Mines de Nantes (a student account is required to access most of the links).
 
 # 2022-2023
 * [Software Engineering and Modeling](https://moodle.imt-atlantique.fr/course/view.php?id=1481)(FIT-A2)
@@ -113,7 +113,7 @@ I have been responsible for the following courses and student projects (a studen
 * [IPIPIP Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391) (FING-A1)
 
 # 2009 and before
-*Please contact me personally if you need the material of the following courses at Politecnico di Milano:*
+I have given lessons in the following courses at Politecnico di Milano.
 
 * Operating Systems Project, Lecturer, 2006-2007, 2008-2009
 * Technological culture, Lecturer, 2007-2008
