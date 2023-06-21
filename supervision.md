@@ -26,10 +26,14 @@ I have (co-)supervised the following PhD students, post-doctoral researchers and
 * Abel Gómez Llana (Post-doc researcher)
 * Hassene Choura (Research Engineer)
 
-I have participated to the supervision committee or the defense jury of the following phd students:
+I have participated to the supervision committee of the following phd students:
+
+* Vianney Sicard (INRAE)
+* Theo Le Calvar (ESEO Angers) 
+
+I have participated to the thesis review or defense jury of the following phd students:
 
 * Antonio Garmendía (Universidad Autonoma de Madrid)
-* Theo Le Calvar (ESEO Angers) 
 * Loli Burgueño (Universidad de Málaga)
 * Elena Planas Hortal (Universitat Oberta de Catalunya)
 * Romeo Marinelli (Università dell'Aquila)

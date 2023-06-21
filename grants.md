@@ -9,6 +9,7 @@ I participated for the [NaoMod](https://naomod.github.io/) team to the following
 * [RODIC](https://rodic.ls2n.fr/): ANR project on Rapid recOnfiguration of manufacturing systems (Co-investigator, 2022-2026)
 * [SEPTIME](https://www6.angers-nantes.inrae.fr/bioepar/Recherche/Projets-en-cours/SEPTIME): Institut Carnot F2E project on a Sensor-Enhanced Projection Tool Informed by an Epidemiological Model (Principal Investigator, 2022-2024)
 * [AIDOaRT](https://www.aidoart.eu/): H2020-ECSEL project on AI-augmented automation supporting modeling, coding, testing, monitoring, and continuous development in Cyber-Physical Systems (Co-investigator, 2021-2024)
+* [CyprIoT](https://github.com/atlanmod/CyprIoT): a RFI Atlanstic2020 collaboration with UQAC on Model-Driven Engineering for the Internet of Things (Principal Investigator, 2020)
 * [Lowcomote](https://www.lowcomote.eu/): Marie Curie European Training Network (ETN) on Low-Code Engineering Platforms (Coordinator, 2019-2023)
 * [CYCLOPS](http://massimotisi.github.io): ANR MRSEI project on Domain-Specific Model-Centric Engineering of Smart Cyber-Physical Systems of Systems (Coordinator, 2019-2021)
 * [MegaM@RT2](https://megamart2-ecsel.eu/): ECSEL project on a scalable model-based framework for continuous development and runtime validation of complex systems (Co-investigator, 2017-2020)
