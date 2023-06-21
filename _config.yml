@@ -14,6 +14,8 @@ institute_name: IMT Atlantique, LS2N (UMR CNRS 6004)
 institute_logo: logo.png
 institute_url: https://naomod.github.io/
 
+footer: Website updated on January 2020 
+
 # Build settings
 markdown: kramdown
 theme: minima
