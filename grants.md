@@ -6,7 +6,7 @@ order: 4
 
 I participated for the [NaoMod](https://naomod.github.io/) team to the following funded collaborative projects:
 
-* [RODIC](https://rodic.ls2n.fr/): ANR project on Rapid recOnfiguration of manufacturing systems (2022-2026)
+* [RODIC](https://rodic.ls2n.fr/): ANR project on Rapid recOnfiguration of manufacturing systems (Co-investigator, 2022-2026)
 * [SEPTIME](https://www6.angers-nantes.inrae.fr/bioepar/Recherche/Projets-en-cours/SEPTIME): Institut Carnot F2E project on a Sensor-Enhanced Projection Tool Informed by an Epidemiological Model (Principal Investigator, 2022-2024)
 * [AIDOaRT](https://www.aidoart.eu/): H2020-ECSEL project on AI-augmented automation supporting modeling, coding, testing, monitoring, and continuous development in Cyber-Physical Systems (Co-investigator, 2021-2024)
 * [Lowcomote](https://www.lowcomote.eu/): Marie Curie European Training Network (ETN) on Low-Code Engineering Platforms (Coordinator, 2019-2023)
