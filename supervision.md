@@ -21,21 +21,21 @@ I have co-supervised the following PhD students:
 
 I have supervised the following postdocs and research engineers:
 
-* Gwendal Daniel (Research Engineer)
-* Zheng Cheng (Post-doc researcher)
-* Salvador Martinez Pérez (Post-doc researcher)
-* Valerio Cosentino (Post-doc researcher)
-* Zied Saidi (Research Engineer)
-* Abel Gómez Llana (Post-doc researcher)
-* Hassene Choura (Research Engineer)
+* Gwendal Daniel (research engineer)
+* Zheng Cheng (post-doc researcher)
+* Salvador Martinez Pérez (post-doc researcher)
+* Valerio Cosentino (post-doc researcher)
+* Zied Saidi (research engineer)
+* Abel Gómez Llana (post-doc researcher)
+* Hassene Choura (research engineer)
 
 I have participated to the thesis review or defense jury of the following phd students:
 
-* Antonio Garmendía (Jury Member, 8 November 2019, Universidad Autonoma de Madrid) 
-* Loli Burgueño (External Reviewer, Universidad de Málaga)
-* Romeo Marinelli (External Reviewer, Università dell'Aquila)
-* Elena Planas Hortal (External Reviewer, Universitat Oberta de Catalunya)
-* Medhi Iraqi (Jury Member, 15 September 2014, Ecole Nationale Supérieure d'Arts et Métiers - CER d'Aix-en-Provence)
+* Antonio Garmendía (jury member, 8 November 2019, Universidad Autonoma de Madrid) 
+* Loli Burgueño (thesis reviewer, Universidad de Málaga)
+* Romeo Marinelli (thesis reviewer, Università dell'Aquila)
+* Elena Planas Hortal (thesis reviewer, Universitat Oberta de Catalunya)
+* Medhi Iraqi (jury member, 15 September 2014, Ecole Nationale Supérieure d'Arts et Métiers - CER d'Aix-en-Provence)
 
 I have participated to the supervision committee (CSI) of the following phd students:
 
