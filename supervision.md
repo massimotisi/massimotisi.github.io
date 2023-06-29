@@ -17,7 +17,7 @@ I have co-supervised the following PhD students:
 * Joachim Hotonnier, 2018-2021 (abandoned), Title: "Deep Specification for Domain-Specific Modeling", Supervision 30%, Director: Gerson Sunyè, LS2N
 * Thibault Béziers la Fosse, 2018-2021, Title: "Model-driven   Methods for Dynamic Analysis applied to Energy-Aware Software
 Engineering", Supervision 30%, Director: Gerson Sunyè, LS2N
-* Imad Berrouyne, 2018-2021, Title: "A Model-Driven Methodology to Unify Software Engineering in the Internet of Things", Supervision 30%, Director: Gerson Sunyè, Cotutelle IMT Atlantique et Université du Québec à Chicoutimi (UQAC), **Mention UQAC: excellent**
+* Imad Berrouyne, 2018-2021, Title: "A Model-Driven Methodology to Unify Software Engineering in the Internet of Things", Supervision 30%, Director: Jean-Claude Royer, Cotutelle IMT Atlantique et Université du Québec à Chicoutimi (UQAC), **Mention UQAC: excellent**
 * Amine Benelallam, 2014-2016, Title: "Model transformation on distributed platforms: decentralized persistence and distributed processing", Supervision 30%, Director: Jordi Cabot, Ecole des Mines de Nantes
 
 I have supervised the following postdocs and research engineers:
