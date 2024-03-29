@@ -6,111 +6,17 @@ order: 2
 
 I have been responsible for the following courses and student projects at [IMT Atlantique](https://www.imt-atlantique.fr/), formerly at Ecole de Mines de Nantes (a student account is required to access most of the links).
 
-# 2022-2023
-* [Software Engineering and Modeling](https://moodle.imt-atlantique.fr/course/view.php?id=1481) (FIT-A2)
-* [Domain-Specific Languages and Model-Driven Engineering](https://moodle.imt-atlantique.fr/course/view.php?id=1486) (FIL-A3)
-* [Databases](https://formations.imt-atlantique.fr/bd_ihm) (FING-A1)
-* [Sensibilization to Research: MDE](https://moodle.imt-atlantique.fr/course/view.php?id=299) (FIL-A3)
-* [Collaborative Development](https://moodle.imt-atlantique.fr/course/view.php?id=16) (FING-A1)
-* [PFE Project](https://moodle.imt-atlantique.fr/course/view.php?id=314) (FING-A3)
-* [PFE Project](https://moodle.imt-atlantique.fr/course/view.php?id=314) (FIL-A3)
-
-# 2021-2022
-* [Software Engineering and Modeling](https://moodle.imt-atlantique.fr/course/view.php?id=1481) (FIT-A2)
-* [Domain-Specific Languages and Model-Driven Engineering](https://moodle.imt-atlantique.fr/course/view.php?id=1486) (FIL-A3)
-* [Databases](https://formations.imt-atlantique.fr/bd_ihm) (FING-A1)
-* [Sensibilization to Research: MDE](https://moodle.imt-atlantique.fr/course/view.php?id=299) (FIL-A3)
-* [Collaborative Development](https://moodle.imt-atlantique.fr/course/view.php?id=16) (FING-A1)
-* [PFE Project](https://moodle.imt-atlantique.fr/course/view.php?id=314) (FING-A3)
-* [PFE Project](https://moodle.imt-atlantique.fr/course/view.php?id=314) (FIL-A3)
-
-# 2020-2021
-* [Domain-Specific Languages and Model-Driven Engineering](https://moodle.imt-atlantique.fr/course/view.php?id=313) (FING-A3-GSI, FIL-A3)
-* [Databases](https://formations.imt-atlantique.fr/bd_ihm) (FING-A1)
-* [Sensibilization to Research: MDE](https://moodle.imt-atlantique.fr/course/view.php?id=299) (FIL-A3)
-* [Collaborative Development](https://moodle.imt-atlantique.fr/course/view.php?id=16) (FING-A1)
-* [PFE Project](https://moodle.imt-atlantique.fr/course/view.php?id=314) (FING-A3)
-* [PFE Project](https://moodle.imt-atlantique.fr/course/view.php?id=314) (FIL-A3)
-
-# 2019-2020
-* [Domain-Specific Languages](https://moodle.imt-atlantique.fr/course/view.php?id=313) (FING-A3-GSI, FIL-A3)
-* [Model-Driven Engineering](https://moodle.imt-atlantique.fr/course/view.php?id=668) (FIL-A3)
-* [Databases](https://formations.imt-atlantique.fr/bd_ihm) (FING-A1)
-* [Sensibilization to Research: MDE](https://moodle.imt-atlantique.fr/course/view.php?id=299) (FIL-A3)
-* [Collaborative Development](https://moodle.imt-atlantique.fr/course/view.php?id=16) (FING-A1)
-* [PFE Project](https://moodle.imt-atlantique.fr/course/view.php?id=314) (FING-A3)
-* [PFE Project](https://moodle.imt-atlantique.fr/course/view.php?id=314) (FIL-A3)
-
-# 2018-2019
-* [Domain-Specific Languages](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1767) (FING-A3-GSI, FIL-A3)
-* [Model-Driven Engineering](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1777) (FIL-A3)
-* [Databases](https://formations.imt-atlantique.fr/bd_ihm) (FING-A1)
-* [Sensibilization to Research: MDE](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532) (FIL-A3)
-* [PRIME Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621) (FING-A1)
-* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1540) (FING-A3)
-* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1344) (FIL-A3)
-
-# 2017-2018
-* [Domain-Specific Languages](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1687) (FING-A3-GSI, FIL-A3)
-* [Model-Driven Engineering](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1688) (FIL-A3)
-* [Databases](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1679) (FING-A1)
-* [Sensibilization to Research: MDE](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532) (FIL-A3)
-* [PRIME Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621) (FING-A1)
-* [PIST Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115) (FING-A2)
-* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1540) (FING-A3)
-* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1344) (FIL-A3)
-
-# 2016-2017
-* [Domain-Specific Languages](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1609) (FING-A3-GSI, FIL-A3)
-* [Model-Driven Engineering](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1628) (FIL-A3)
-* [Databases](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1598) (FING-A1)
-* [Sensibilization to Research: MDE](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532) (FIL-A3)
-* [PRIME Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621) (FING-A1)
-* [PIST Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115) (FING-A2)
-* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1540) (FING-A3)
-* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1344) (FIL-A3)
-
-# 2015-2016
-* [Domain-Specific Languages](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1571) (FING-A3-GSI, FIL-A3)
-* [Model-Driven Engineering](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1558) (FIL-A3)
-* [Databases](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1545) (FING-A2)
-* [Databases](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1546) (FING-A1)
-* [Sensibilization to Research: MDE](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532) (FIL-A3)
-* [PRIME Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621) (FING-A1)
-* [PIST Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115) (FING-A2)
-* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1540) (FING-A3)
-* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1344) (FIL-A3)
-
-# 2014-2015
-* [Domain-Specific Languages](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1472) (FING-A3-GSI, FIL-A3)
-* [Databases](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1471) (FING-A2)
-* [Sensibilization to Research: MDE](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532) (FIL-A3)
-* [PRIME Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621) (FING-A1)
-* [IPIPIP Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391) (FING-A1)
-* [PFE Project (FING)](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1486) (FING-A3)
-* [PFE Project (FIL)](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1344) (FIL-A3)
-
-# 2013-2014
-* [Domain-Specific Languages](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1415) (FING-A3-GSI, FIL-A3)
-* [Databases](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1327) (FING-A2)
-* [Sensibilization to Research: MDE](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532) (FIL-A3)
-* [PRIME Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621) (FING-A1)
-* [IPIPIP Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391) (FING-A1)
-* [PIST Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115) (FING-A2)
-* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1305) (FING-A3)
-* [PFE Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1344) (FIL-A3)
-
-# 2012-2013
-* [Databases](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1133) (FING-A2)
-* [PRIME Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621) (FING-A1)
-* [IPIPIP Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391) (FING-A1)
-
-# 2011-2012
-* [IPIPIP Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391) (FING-A1)
-
-# 2010-2011
-* [Higher-order Transformations](http://web.emn.fr/x-info/atlanmod/index.php?title=The_MDE_Diploma) (MDE Diploma)
-* [IPIPIP Project](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391) (FING-A1)
+* Software Engineering and Modeling (FIT-A2): [2021-2022](https://moodle.imt-atlantique.fr/course/view.php?id=1481), [2022-2023](https://moodle.imt-atlantique.fr/course/view.php?id=1481)
+* Domain-Specific Languages and Model-Driven Engineering (FING-A3-GSI, FIL-A3): [2020-2021](https://moodle.imt-atlantique.fr/course/view.php?id=313), [2021-2022](https://moodle.imt-atlantique.fr/course/view.php?id=1486), [2022-2023](https://moodle.imt-atlantique.fr/course/view.php?id=1486)
+* Collaborative Development (FING-A1): [2019-2020](https://moodle.imt-atlantique.fr/course/view.php?id=16), [2020-2021](https://moodle.imt-atlantique.fr/course/view.php?id=16), [2021-2022](https://moodle.imt-atlantique.fr/course/view.php?id=16), [2022-2023](https://moodle.imt-atlantique.fr/course/view.php?id=16)
+* Sensibilization to Research - MDE (FIL-A3): [2013-2014](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532), [2014-2015](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532), [2015-2016](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532), [2016-2017](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532), [2017-2018](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532), [2018-2019](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1532), [2019-2020](https://moodle.imt-atlantique.fr/course/view.php?id=299), [2020-2021](https://moodle.imt-atlantique.fr/course/view.php?id=299), [2021-2022](https://moodle.imt-atlantique.fr/course/view.php?id=299), [2022-2023](https://moodle.imt-atlantique.fr/course/view.php?id=299) 
+* Databases (FING-A2): [2012-2013](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1133), [2013-2014](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1327), [2014-2015](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1471), [2015-2016](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1545) (FING-A1): [2015-2016](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1546), [2016-2017](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1598), [2017-2018](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1679), [2018-2019](https://formations.imt-atlantique.fr/bd_ihm), [2019-2020](https://formations.imt-atlantique.fr/bd_ihm), [2020-2021](https://formations.imt-atlantique.fr/bd_ihm), [2021-2022](https://formations.imt-atlantique.fr/bd_ihm), [2022-2023](https://formations.imt-atlantique.fr/bd_ihm)
+* Model-Driven Engineering (FIL-A3): [2015-2016](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1558), [2016-2017](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1628), [2017-2018](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1688), [2018-2019](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1777), [2019-2020](https://moodle.imt-atlantique.fr/course/view.php?id=668)
+* Domain-Specific Languages (FING-A3-GSI, FIL-A3): [2013-2014](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1415), [2014-2015](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1472), [2015-2016](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1571), [2016-2017](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1609), [2017-2018](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1687), [2018-2019](https://campusneo.mines-nantes.fr/campus/course/view.php?id=1767), [2019-2020](https://moodle.imt-atlantique.fr/course/view.php?id=313)
+* PRIME Project (FING-A1): [2012-2013](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621), [2013-2014](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621), [2014-2015](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621), [2015-2016](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621), [2016-2017](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621), [2017-2018](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621), [2018-2019](https://campusneo.mines-nantes.fr/campus/course/view.php?id=621)
+* PIST Project (FING-A2): [2013-2014](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115), [2015-2016](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115), [2016-2017](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115), [2017-2018](https://campusneo.mines-nantes.fr/campus/course/view.php?id=115)
+* IPIPIP Project (FING-A1): [2010-2011](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391), [2011-2012](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391), [2012-2013](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391), [2013-2014](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391), [2014-2015](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391) 
+* Higher-order Transformations (MDE Diploma): [2010-2011](http://web.emn.fr/x-info/atlanmod/index.php?title=The_MDE_Diploma) 
 
 # 2009 and before
 I have given lessons in the following courses at Politecnico di Milano.
@@ -123,3 +29,4 @@ I have given lessons in the following courses at Politecnico di Milano.
 * Web Technologies, Teaching Assistant for the post-university master on Service Oriented Architectures, 2006-2007, 2007-2008
 * Information Systems, Teaching Assistant for the on-line degree, 2005-2006
 
+[Last updated: June 2023]
