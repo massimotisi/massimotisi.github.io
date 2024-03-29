@@ -28,5 +28,3 @@ I have given lessons in the following courses at Politecnico di Milano.
 * Computer Science 3 (Algorithms and Data Structures), Teaching Assistant, 2006-2007, 2007-2008, 2008-2009
 * Web Technologies, Teaching Assistant for the post-university master on Service Oriented Architectures, 2006-2007, 2007-2008
 * Information Systems, Teaching Assistant for the on-line degree, 2005-2006
-
-[Last updated: June 2023]
