@@ -124,11 +124,8 @@ I have served as co-organizer and reviewer for the following venues.
 * [European Conference on Modelling Foundations and Applications (ECMFA)](http://ecmfa2014.lcc.uma.es/#) (Reviewer)
 
 # 2013 and before
-* [Workshop on Scalable Model-Driven Engineering (BigMDE) 2013](https://big-mde.github.io/2013.html) (Co-organizer)
-* [Workshop on Model transformations with ATL (MtATL) 2011](https://web.imt-atlantique.fr/x-info/atlanmod/index.php?title=MtATL2011) (Programme Chair)
-* [Workshop on Model transformations with ATL (MtATL) 2010](https://web.imt-atlantique.fr/x-info/atlanmod/index.php?title=MtATL2010) (Publicity Chair
-)
-* [Workshop on Model transformations with ATL (MtATL) 2009](https://web.imt-atlantique.fr/x-info/atlanmod/index.php?title=MtATL2009) (Local Organization Committee)
+* Workshop on Scalable Model-Driven Engineering (BigMDE) [2013](https://big-mde.github.io/2013.html) (Co-organizer)
+* Workshop on Model transformations with ATL (MtATL) [2009](https://web.imt-atlantique.fr/x-info/atlanmod/index.php?title=MtATL2009) (Local Organization Committee), [2010](https://web.imt-atlantique.fr/x-info/atlanmod/index.php?title=MtATL2010) (Publicity Chair), [2011](https://web.imt-atlantique.fr/x-info/atlanmod/index.php?title=MtATL2011) (Programme Chair)
 * [International Conference on Model Transformation (ICMT) 2013](http://www.model-transformation.org/ICMT2013/) (PC)
 * [Demos and Posters Track at the International Conference on Web Engineering 2010 (ICWE) 2010](http://icwe2010.webengineering.org/Calls/demos.aspx) (PC)
 * [IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c) (Journal reviewer)
