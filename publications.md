@@ -6,7 +6,7 @@ order: 0
 
 I have published more than 80 articles in international conferences and journals (h-index: 26). 
 
-You can find the list of my publications on [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo) and some of the pdfs in free access down here.
+You can find the list of my publications on [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tisi:Massimo), some stats on [Google Scholar](https://scholar.google.fr/citations?user=5-tRnxkAAAAJ&hl=en), and some of the pdfs in free access down here.
 <br/>
 <br/>
 
