@@ -4,7 +4,7 @@ title: Grants
 order: 4
 ---
 
-I participated for the [NaoMod](https://naomod.github.io/) team to the following funded collaborative projects:
+I have participated for the [NaoMod](https://naomod.github.io/) team to the following funded collaborative projects:
 
 * [RODIC](https://rodic.ls2n.fr/): ANR project on Rapid recOnfiguration of manufacturing systems (Co-investigator, 2022-2026)
 * [SEPTIME](https://www6.angers-nantes.inrae.fr/bioepar/Recherche/Projets-en-cours/SEPTIME): Institut Carnot F2E project on a Sensor-Enhanced Projection Tool Informed by an Epidemiological Model (Principal Investigator, 2022-2024)
