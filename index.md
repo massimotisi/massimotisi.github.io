@@ -19,3 +19,5 @@ In most of my current research I investigate:
 * Modeling of [Cyber-Physical Systems](https://en.wikipedia.org/wiki/Cyber-physical_system)
 
 You will not find much about these topics in this website. The best way to have more details on my research is browsing through my [publications](publications).
+
+I'm not very active on social media, but I do have an account on [Twitter](https://twitter.com/massimotisi) and [Linkedin](https://www.linkedin.com/in/massimotisi/). 
