@@ -4,6 +4,7 @@ title: Teaching
 order: 2
 ---
 
+# IMT Atlantique
 I have been responsible for the following courses and student projects at [IMT Atlantique](https://www.imt-atlantique.fr/), formerly at Ecole de Mines de Nantes (a student account is required to access most of the links).
 
 * Software Engineering and Modeling (FIT-A2): [2021-2022](https://moodle.imt-atlantique.fr/course/view.php?id=1481), [2022-2023](https://moodle.imt-atlantique.fr/course/view.php?id=1481)
@@ -18,7 +19,7 @@ I have been responsible for the following courses and student projects at [IMT A
 * IPIPIP Project (FING-A1): [2010-2011](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391), [2011-2012](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391), [2012-2013](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391), [2013-2014](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391), [2014-2015](https://campusneo.mines-nantes.fr/campus/course/view.php?id=391) 
 * Higher-order Transformations (MDE Diploma): [2010-2011](http://web.emn.fr/x-info/atlanmod/index.php?title=The_MDE_Diploma) 
 
-# 2009 and before
+# Politecnico di Milano
 I have given lessons in the following courses at Politecnico di Milano.
 
 * Operating Systems Project, Lecturer, 2006-2007, 2008-2009
