@@ -18,7 +18,7 @@ I have served as co-organizer and reviewer for the following venues.
 * NeuroComputing: [2014](http://www.journals.elsevier.com/neurocomputing) (Reviewer)
 * Journal of Web Engineering (JWE): [2014](http://www.rintonpress.com/journals/jwe/) (Reviewer)
 * Information Processing Letters (IPL): [2012](http://www.journals.elsevier.com/information-processing-letters/) (Reviewer)
-* Software: Practice and Experience (SPE): [2012](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-024X)
+* Software: Practice and Experience (SPE): [2012](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-024X) (Reviewer)
 * IEEE Software: [2012](https://www.computer.org/software-magazine/) (Reviewer)
 
 # Academic conferences
