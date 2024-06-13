@@ -8,15 +8,15 @@ I have served as co-organizer and reviewer for the following venues.
 
 # Academic journals
 
-* Software and System Modeling (SoSyM): [2015](http://www.sosym.org/) (Reviewer),  [2016](http://www.sosym.org/) (Reviewer), [2017](http://www.sosym.org/) (Reviewer), [2018](http://www.sosym.org/) (Reviewer), [2019](http://www.sosym.org/) (Reviewer), [2020](http://www.sosym.org/) (Reviewer), [2021](http://www.sosym.org/) (Reviewer), [2022](http://www.sosym.org/) (Theme section editor, Reviewer), [2023](http://www.sosym.org/) (Reviewer), [2024](http://www.sosym.org/) (**Editorial Board Member**, Reviewer)
-* IEEE Transactions on Software Engineering (TSE): [2015](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c) (Reviewer), [2016](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c) (Reviewer), [2021](https://www.computer.org/web/tse) (Reviewer)
+* Software and System Modeling (SoSyM): [2009](http://www.sosym.org/) (Reviewer), [2011](http://www.sosym.org/) (Reviewer), [2012](http://www.sosym.org/) (Reviewer), [2013](http://www.sosym.org/) (Reviewer), [2015](http://www.sosym.org/) (Reviewer),  [2016](http://www.sosym.org/) (Reviewer), [2017](http://www.sosym.org/) (Reviewer), [2018](http://www.sosym.org/) (Reviewer), [2019](http://www.sosym.org/) (Reviewer), [2020](http://www.sosym.org/) (Reviewer), [2021](http://www.sosym.org/) (Reviewer), [2022](http://www.sosym.org/) (Theme section editor, Reviewer), [2023](http://www.sosym.org/) (Reviewer), [2024](http://www.sosym.org/) (**Editorial Board Member**, Reviewer)
+* IEEE Transactions on Software Engineering (TSE): [2012](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c) (Reviewer), [2015](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c) (Reviewer), [2016](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c) (Reviewer), [2021](https://www.computer.org/web/tse) (Reviewer)
 * Interaction Design and Architecture(s) Journal (IxD&A): [2020](http://interfacce.mifav.uniroma2.it/inevent/events/idea2010/?s=9) (Reviewer)
-* Journal of Systems and Software (JSS): [2017](http://www.journals.elsevier.com/journal-of-systems-and-software) (Reviewer), [2018](http://www.journals.elsevier.com/journal-of-systems-and-software) (Reviewer), [2019](http://www.journals.elsevier.com/journal-of-systems-and-software) (Reviewer)
-* Science of Computer Programming (SciCO): [2016](http://www.journals.elsevier.com/science-of-computer-programming/) (Reviewer), [2017](http://www.journals.elsevier.com/science-of-computer-programming/) (Reviewer, Reviewer for Original Software Publications), [2018](http://www.journals.elsevier.com/science-of-computer-programming/) (Reviewer)
+* Journal of Systems and Software (JSS): [2011](http://www.journals.elsevier.com/journal-of-systems-and-software) (Reviewer), [2013](http://www.journals.elsevier.com/journal-of-systems-and-software) (Reviewer), [2017](http://www.journals.elsevier.com/journal-of-systems-and-software) (Reviewer), [2018](http://www.journals.elsevier.com/journal-of-systems-and-software) (Reviewer), [2019](http://www.journals.elsevier.com/journal-of-systems-and-software) (Reviewer)
+* Science of Computer Programming (SciCO): [2011](http://www.journals.elsevier.com/science-of-computer-programming/) (Reviewer), [2012](http://www.journals.elsevier.com/science-of-computer-programming/) (Reviewer), [2013](http://www.journals.elsevier.com/science-of-computer-programming/) (Reviewer),[2016](http://www.journals.elsevier.com/science-of-computer-programming/) (Reviewer), [2017](http://www.journals.elsevier.com/science-of-computer-programming/) (Reviewer, Reviewer for Original Software Publications), [2018](http://www.journals.elsevier.com/science-of-computer-programming/) (Reviewer)
 * Journal of Software: Evolution and Process: [2015](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2047-7481) (Reviewer)
 * Journal of Logic and Algebraic Programming (JLAP): [2014](http://www.journals.elsevier.com/the-journal-of-logic-and-algebraic-programming) (Reviewer)
 * NeuroComputing: [2014](http://www.journals.elsevier.com/neurocomputing) (Reviewer)
-* Journal of Web Engineering (JWE): [2014](http://www.rintonpress.com/journals/jwe/) (Reviewer)
+* Journal of Web Engineering (JWE): [2011](http://www.rintonpress.com/journals/jwe/) (Reviewer), [2014](http://www.rintonpress.com/journals/jwe/) (Reviewer)
 * Information Processing Letters (IPL): [2012](http://www.journals.elsevier.com/information-processing-letters/) (Reviewer)
 * Software: Practice and Experience (SPE): [2012](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-024X) (Reviewer)
 * IEEE Software: [2012](https://www.computer.org/software-magazine/) (Reviewer)
@@ -59,14 +59,3 @@ I have served as co-organizer and reviewer for the following venues.
 * Monitoring and Evaluation Committee at the Pôle Images & Réseaux: [2017](http://www.images-et-reseaux.com/en) (Member), [2018](http://www.images-et-reseaux.com/en) (Member), [2019](http://www.images-et-reseaux.com/en) (Member), [2020](http://www.images-et-reseaux.com/en) (Member), [2021](http://www.images-et-reseaux.com/en) (Member), [2022](http://www.images-et-reseaux.com/en) (Member), [2023](http://www.images-et-reseaux.com/en) (Member), [2024](http://www.images-et-reseaux.com/en) (Member)
 * MEASURE Industrial Workshop: [2018](http://measure.softeam-rd.eu/events-workshops/itea3measureindustrialworkshopeventinnanteson15thjune2018) (**Keynote speaker**)
 * Model-Driven Engineering at Journées RT3: [2014](https://rth3.wp.mines-telecom.fr/journees-rt3/) (Panelist)
-
-# Early reviews
-
-Before 2014 I reviewed articles from the following journals: 
-
-* [IEEE Transactions on Software Engineering (TSE)](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c)
-* [Science of Computer Programming (SciCO)](http://www.journals.elsevier.com/science-of-computer-programming/)
-* [Journal of Logic and Algebraic Programming (JLAP)](http://www.journals.elsevier.com/the-journal-of-logic-and-algebraic-programming) 
-* [Journal of Systems and Software (JSS)](http://www.journals.elsevier.com/journal-of-systems-and-software)
-* [Software and System Modeling (SoSyM)](http://www.sosym.org/) 
-* [Journal of Web Engineering (JWE)](http://www.rintonpress.com/journals/jwe/)
