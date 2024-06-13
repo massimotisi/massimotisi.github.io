@@ -6,7 +6,7 @@ order: 5
 
 I have served as co-organizer and reviewer for the following venues.
 
-# Journals
+# Academic journals
 
 * Software and System Modeling (SoSyM): [2015](http://www.sosym.org/) (Reviewer),  [2016](http://www.sosym.org/) (Reviewer), [2017](http://www.sosym.org/) (Reviewer), [2018](http://www.sosym.org/) (Reviewer), [2019](http://www.sosym.org/) (Reviewer), [2020](http://www.sosym.org/) (Reviewer), [2021](http://www.sosym.org/) (Reviewer), [2022](http://www.sosym.org/) (Theme section editor, Reviewer), [2023](http://www.sosym.org/) (Reviewer), [2024](http://www.sosym.org/) (**Editorial Board Member**, Reviewer)
 * IEEE Transactions on Software Engineering (TSE): [2015](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c) (Reviewer), [2016](https://www.computer.org/web/tse;jsessionid=6afd856a99689b17c0c58edc329c) (Reviewer), [2021](https://www.computer.org/web/tse)(Reviewer)
@@ -18,7 +18,7 @@ I have served as co-organizer and reviewer for the following venues.
 * NeuroComputing: [2014](http://www.journals.elsevier.com/neurocomputing) (Reviewer)
 * Journal of Web Engineering (JWE): [2014](http://www.rintonpress.com/journals/jwe/) (Reviewer)
 
-# Conferences
+# Academic conferences
 
 * International Conference on Model Driven Engineering Languages and Systems (MoDELS): [2010](http://models2010.ifi.uio.no/) (Reviewer), [2016](http://models2016.irisa.fr/tool-demonstrations/) (PC Tool Demonstrations), [2017](http://www.cs.colostate.edu/~ghosh/models17_td/home_models17_td.html) (PC Tools and Demos), [2019](https://modelsconf19.org/) (PC), [2020](https://modelsconference.org/) (PC), [2021](https://modelsconference.org/) (PC, Artifact Evaluation Chair), [2023](https://modelsconference.org/) (Workshops PC)
 * Software Technologies: Applications and Foundations (STAF): [2017](http://www.informatik.uni-marburg.de/staf2017/index.php/projects-showcases/) (Co-organizer Project Showcase), [2019](https://staf2019.win.tue.nl/events/staf-rps19/) (Workshop Chair, PC Research Project Showcase, PC Junior Researcher Community Event JRC), [2022](https://staf2022.univ-nantes.io/) (**General Chair**)
@@ -34,7 +34,7 @@ I have served as co-organizer and reviewer for the following venues.
 * International World Wide Web Conference (WWW): [2008](http://wwwconference.org/www2008/) (Reviewer)
 * International Conference on Web Information Systems Engineering (WISE): [2007](http://wise2007.loria.fr/pmwiki/pmwiki.php) (Reviewer)
 
-# Workshops
+# Academic workshops
 
 * Lowcode Workshop (Lowcode): [2020](https://lowcode-workshop.github.io/) (**Co-Organizer**),  [2021](https://lowcode-workshop.github.io/) (**Co-Organizer**), [2022](https://lowcode-workshop.github.io/) (**Co-Organizer**), [2023](https://lowcode-workshop.github.io/) (**Co-Organizer**), [2024](https://lowcode-workshop.github.io/) (**Co-Organizer**)
 * International Workshop on Games and Software Engineering (GAS): [2022](https://conf.researchr.org/home/icse-2022/gas-2022) (PC)
