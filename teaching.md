@@ -6,7 +6,7 @@ order: 2
 
 # IMT Atlantique
 
-I am co-responsible of the apprentship cursus in Software Engineering at IMT Atlantique, [FIL](https://www.imt-atlantique.fr/fr/formation/ingenieur-apprentissage/ingenierie-logicielle). 
+I am co-responsible at IMT Atlantique of the [Software Engineering Apprenticeship (FIL)](https://www.imt-atlantique.fr/fr/formation/ingenieur-apprentissage/ingenierie-logicielle). 
 
 I have been responsible for the following courses and student projects at [IMT Atlantique](https://www.imt-atlantique.fr/), formerly at Ecole de Mines de Nantes (a student account is required to access most of the links).
 
