@@ -14,5 +14,3 @@ In most of my current research I investigate:
 * [Software Language Engineering](https://en.wikipedia.org/wiki/Domain-specific_language)
 
 I'm applying these techniques in the digitalization of industrial systems ([Industry 4.0](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution)).
-
-I'm not very active on social media, but I do have an account on [Twitter](https://twitter.com/massimotisi) and [Linkedin](https://www.linkedin.com/in/massimotisi/).
