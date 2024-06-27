@@ -9,7 +9,7 @@ I'm leading the [Naomod](https://naomod.github.io/) team ([LS2N, UMR CNRS 6004](
 In most of my current research I investigate:
 
 * [Model Transformation](https://en.wikipedia.org/wiki/Model_transformation)
-* [AI-Assisted Software Engineering](https://www.google.com/search?q=AI-Assisted+Development)
+* [AI-Assisted Software Engineering](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence#AI-powered_code_assisting_tools)
 * [Deductive Verification](https://en.wikipedia.org/wiki/Formal_verification#Approaches) for Model-Driven Engineering
 * [Software Language Engineering](https://en.wikipedia.org/wiki/Domain-specific_language)
 
