@@ -14,9 +14,10 @@ In most of my current research I investigate:
 
 * [Model Transformation](https://en.wikipedia.org/wiki/Model_transformation)
 * [AI-Assisted Software Engineering](https://www.google.com/search?q=AI-Assisted+Development)
-* [Deductive Verification](https://en.wikipedia.org/wiki/Formal_verification#Approaches) in Model-Driven Engineering
+* [Deductive Verification](https://en.wikipedia.org/wiki/Formal_verification#Approaches) for Model-Driven Engineering
 * [Software Language Engineering](https://en.wikipedia.org/wiki/Domain-specific_language)
-* Modeling of [Cyber-Physical Systems](https://en.wikipedia.org/wiki/Cyber-physical_system)
+
+I'm applying these techniques in the digitalization of industrial systems ([Industry 4.0](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution)).
 
 You will not find much about these topics in this website. The best way to have more details on my research is browsing through my [publications](publications).
 
