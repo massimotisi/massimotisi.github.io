@@ -19,6 +19,4 @@ In most of my current research I investigate:
 
 I'm applying these techniques in the digitalization of industrial systems ([Industry 4.0](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution)).
 
-You will not find much about these topics in this website. The best way to have more details on my research is browsing through my [publications](publications).
-
-I'm not very active on social media, but I do have an account on [Twitter](https://twitter.com/massimotisi) and [Linkedin](https://www.linkedin.com/in/massimotisi/). 
+I'm not very active on social media, but I do have an account on [Twitter](https://twitter.com/massimotisi) and [Linkedin](https://www.linkedin.com/in/massimotisi/).
