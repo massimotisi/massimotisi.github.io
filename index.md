@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I am an Associate Professor in the Department of Automation, Production and Computer Science of the [IMT Atlantique](http://www.imt-atlantique.fr/) (France). I am co-responsible at IMT Atlantique of the [Software Engineering Apprenticeship (FIL)](https://www.imt-atlantique.fr/fr/formation/ingenieur-apprentissage/ingenierie-logicielle). 
+I am an Associate Professor in the Department of Automation, Production and Computer Science of [IMT Atlantique](http://www.imt-atlantique.fr/) (France). I am co-responsible at IMT Atlantique of the [Software Engineering Apprenticeship (FIL)](https://www.imt-atlantique.fr/fr/formation/ingenieur-apprentissage/ingenierie-logicielle). 
 
 I'm leading the [Naomod](https://naomod.github.io/) team ([LS2N, UMR CNRS 6004](http://ls2n.fr/)). 
 
