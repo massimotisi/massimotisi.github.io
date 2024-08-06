@@ -41,9 +41,9 @@ I have served as co-organizer and reviewer for the following venues.
 
 # Academic workshops
 
-* Workshop on Artificial Intelligence and Model-driven Engineering (MDE Intelligence): [2024](https://mde-intelligence.github.io/)
+* Workshop on Artificial Intelligence and Model-driven Engineering (MDE Intelligence): [2024](https://mde-intelligence.github.io/) (PC)
 * International Workshop on Modeling in Low-Code Development Platforms (Lowcode): [2020](https://lowcode-workshop.github.io/) (**Co-Organizer**),  [2021](https://lowcode-workshop.github.io/) (**Co-Organizer**), [2022](https://lowcode-workshop.github.io/) (**Co-Organizer**), [2023](https://lowcode-workshop.github.io/) (**Co-Organizer**), [2024](https://lowcode-workshop.github.io/) (**Co-Organizer**)
-* International Workshop on Model Management (MoM): [2024](https://mom2024.wp.imt.fr/)
+* International Workshop on Model Management (MoM): [2024](https://mom2024.wp.imt.fr/) (PC)
 * International Workshop on Modeling Language Engineering (MLE): [2022](https://mleworkshop.github.io/editions/mle2022/) (PC), [2023](https://mleworkshop.github.io/editions/mle2023/) (PC)
 * International Workshop on Games and Software Engineering (GAS): [2022](https://conf.researchr.org/home/icse-2022/gas-2022) (PC)
 * International Workshop on Model-Driven Engineering of Digital Twins (MODDIT): [2021](https://gemoc.org/events/moddit2021.html) (PC)
