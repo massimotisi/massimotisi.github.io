@@ -8,7 +8,7 @@ order: 2
 
 I am co-responsible at IMT Atlantique of the [Software Engineering Apprenticeship Specialization (FIL)](https://www.imt-atlantique.fr/en/study/apprenticeship-engineer/software-engineering-specialisation). 
 
-I have been responsible for the following courses and student projects at [IMT Atlantique](https://www.imt-atlantique.fr/), formerly at Ecole de Mines de Nantes (a student account is required to access most of the links).
+I have been responsible for the following courses and student projects at [IMT Atlantique](https://www.imt-atlantique.fr/), formerly at Ecole de Mines de Nantes.
 
 * Software Engineering and Modeling (FIT-A2): [2021-2022](https://moodle.imt-atlantique.fr/course/view.php?id=1481), [2022-2023](https://moodle.imt-atlantique.fr/course/view.php?id=1481), [2023-2024](https://moodle.imt-atlantique.fr/course/view.php?id=1481)
 * Language Engineering (FIL-A3): [2023-2024](https://moodle.imt-atlantique.fr/course/view.php?id=2088)
