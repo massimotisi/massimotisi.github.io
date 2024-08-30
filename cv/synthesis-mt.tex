@@ -1,0 +1,344 @@
+% Jason R. Blevins - Curriculum Vitae
+%
+% Copyright (C) 2004-2010 Jason R. Blevins
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely.  No attribution is
+% required in any resulting documents.  I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[10pt,a4paper]{article}
+\synctex=1
+\usepackage[a4paper]{geometry}
+
+% Fonts
+\usepackage[T1]{fontenc}
+\usepackage[bitstream-charter]{mathdesign}
+\usepackage[scaled=0.85]{beramono}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage[resetlabels,labeled]{multibib}
+\usepackage[linktocpage=true]{hyperref} 
+
+\setlist{noitemsep}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\newcites{IJ}{International Journal Papers}
+\newcites{IC}{International Conference Papers}
+\newcites{IW}{International Workshop Papers}
+\newcites{TR}{Technical Reports}
+\newcites{ED}{Editing}
+\newcites{BC}{Book Chapters}
+
+% Set your name here
+\def\name{Massimo Tisi}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {model-transformation},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 9.0in},
+  left=1.0in,
+  top=1.0in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+%MAX added to make bibliographies subsections
+\makeatletter
+\renewenvironment{thebibliography}[1]
+     {\subsection*{\refname}%
+      \@mkboth{\MakeUppercase\refname}{\MakeUppercase\refname}%
+      \list{\@biblabel{\@arabic\c@enumiv}}%
+           {\settowidth\labelwidth{\@biblabel{#1}}%
+            \leftmargin\labelwidth
+            \advance\leftmargin\labelsep
+            \@openbib@code
+            \usecounter{enumiv}%
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000%
+      \sfcode`\.\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist}
+\makeatother
+\begin{document}
+
+% Place name at left
+{\huge Massimo Tisi - Synthesis Document}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+% \vspace{0.25in}
+% \begin{minipage}[t]{0.5\textwidth}
+%   \begin{itemize}
+%   \item Associate Professor, Hdr
+%   \item Department of automation,\\
+%     production and computer science (DAPI)
+%   \item IMT Atlantique
+%   \item LS2N laboratory (UMR CNRS 6004)
+%   \end{itemize}
+
+% \end{minipage}
+% \begin{minipage}[t]{0.5\textwidth}
+%   \begin{itemize}
+%   \item Address: rue Alfred Kastler, BP 20722 \\
+%   F-44307 Nantes Cedex 3
+%   \item Phone: +33 2 5185 8704
+%   \item Email: \texttt{massimo.tisi@imt-atlantique.fr}
+%   \item Homepage: \texttt{https://massimotisi.github.io/}
+%   \end{itemize}
+% \end{minipage}
+
+\section*{Highlights}
+
+\textbf{Research and visibility.}
+I am widely recognized as an expert in \textit{\textbf{software modeling and model transformation}}, notably for introducing the paradigm of higher-order model transformations, and for my contributions to the ATL language since 2010. My 92 international publications have been cited more than 2500 times, resulting in an h-index of 26.\footnote{August 2024 - Google Scholar}
+
+I am visible as a leading researcher on  \textit{\textbf{low-code platforms}} (i.e., software modeling platforms on the Cloud) since I was among the first academics to work on low-code, by coordinating the Lowcomote European project, organizing the LowCode workshop series, and publishing on the subject. 
+
+I am among the first researchers publishing on the combination of  \textit{\textbf{AI and software modeling}}, and I recently obtained a grant for coordinating an European project on this subject, MOSAICO.
+
+My privileged application area is the \textit{\textbf{digital transformation}} of industrial systems, and many of my innovations are applied in that context.
+
+\textbf{Valorization.} I have worked in several national (Italian and French), and European research projects, as well as with several companies for research exploitation and technology transfer (including Sodifrance, Thales, British Telecom, and several SMEs). I have secured more than 2.3M€ in funding for IMT Atlantique, from European and national projects.
+
+\textbf{Community Service.} I am a member of the editorial board of the Software and System Modeling journal, leading journal in the modeling community. I reviewed for top journals in software engineering, including Transactions of Software Engineering, Journal of Software: Evolution and Process, Software and System Modeling, Science of Computer Programming. I was editor for a special section of the Software and System Modeling journal.
+
+I have served as General Chair of the Software Technologies: Applications and Foundations 2022 (STAF 2022) Federated Conference. I co-organized succesful workshop series on Scalability in Model Driven Engineering (BigMDE) and Modeling in Low-Code Development Platforms (LowCode). 
+I have served in the program committee of several international conferences and workshops in software engineering, including the leading conferences on modeling (MODELS), model transformation (ICMT) and software language engineering (SLE). I was Artifact Chair in MODELS, and co-organizer of the Project Showcase at STAF.
+
+Since 2017, I am member of the Monitoring and Evaluation Committee at the Pôle Images \& Réseaux.
+
+\textbf{Academic Supervision.} I co-advised 9 PhD students (1 \textit{\textbf{excellent}} mention from the partner university UQAC) and 7 postdocs and research engineers. I am member of the council of the SPIN doctoral school, and co-responsible of the Doctoral Affairs at the LS2N laboratory.
+
+\textbf{Teaching.} I am co-responsible for the Apprenticeship Engineer, Software Engineering Specialisation at IMT Atlantique. Since 2013, I have been responsible for several courses at IMT Atlantique, including Domain-Specific Languages, Model-Driven Engineering, Language Engineering and Databases.
+
+\section{Research and Valorization}
+
+%In this synthesis document I briefly outline my history and experiences. I separate Research and Valorization (Section 1) from Teaching Experience (Section 2). 
+%In this section I detail research and valorization by topic, and I add references to significant publications and projects when appropriate.
+
+\subsection{2005 - 2011: Model Transformations for Web Engineering}
+
+I obtained my M.Sc. in Computer Science and Engineering at Politecnico di Milano in 2005 (100/100) and my Ph.D. in Information Engineering (grade A) in April 2009, with a thesis on Model Transformations for Artifact Generation in Model-Driven Environments (advisor prof. Piero Fraternali).
+
+I was part of the database group in Politecnico di Milano, directed by Stefano Ceri, in a team on data-intensive Web applications, under the supervision of Piero Fraternali. 
+I was charged with the task of improving the software engineering processes around WebML, a domain-specific modeling language for designing and generating Web applications created by the group. I quickly entered in contact with the standards of the Eclipse modeling platform. In particular, I was impressed by the effectiveness of the ATL transformation language, developed by Jean Bezivin and Frederic Jouault at the Ecole des Mines de Nantes, and de-facto standard at the time. 
+The result of the PhD was a network of ATL transformations automatically performing several software-engineering activities on WebML: computation of functional size metrics, test set generation, mutation analysis, synchronization with artifacts in other technical spaces. 
+
+My transformation network was heavily based on transforming transformations themselves. Jean Bezivin invited me in Nantes with the objective of generalizing and formalizing this concept. The resulting work on Higher-Order Transformations was the start of a research activity with the AtlanMod (now Naomod) team, that is still ongoing. 
+
+% \begin{itemize}\footnotesize
+% \item Piero Fraternali, Massimo Tisi: A higher-order generative framework for weaving traceability links into a code generator for Web application testing. International Conference on Web Engineering 2009 (ICWE 2009). \textbf{Best paper award}
+% \end{itemize}
+
+\subsection{2009 - ongoing: Model Transformation Languages}
+
+Model-Driven Engineering (MDE) is the software engineering approach that aims at increasing the efficiency and reliability of software production by putting visual models of the software (class diagrams, state machines, process models, deployment diagrams, petri nets, etc.) at the center of the development process. 
+In the scope of MDE, model transformation (MT) aims to provide a mean to specify the way to produce target models from a number of source models. It enables developers to define the way source model elements must be matched and navigated in order to initialize the target model elements. %Formally, a model transformation has to define the way for generating a model Mb, conforming to a metamodel MMb, from a model Ma conforming to a metamodel MMa. 
+In practice, MTs are widely used in MDE, e.g. during code generation (their originally intended use case), translation among modeling languages, data interoperability, controlled updates over models at runtime.
+
+I have investigated paradigms for MT, including the relational paradigm (exemplified by the ATL transformation language), the functional paradigm (e.g. by the OCL language), the data-flow paradigm (e.g. by the fUML language). I have studied correspondences between these paradigms and translations among them. 
+
+I have contributed at clarifying the properties of transformation languages, especially bidirectionality and more recently additivity, a property relating the syntactic constructs of the transformation specification to their semantic output. I have distinguished the important class of higher-order transformations, i.e. transformations that manipulate other transformations.
+% \begin{itemize}\footnotesize
+% \item Sochiro Hidaka, Massimo Tisi: Partial Bidirectionalization of Model-Transformation Languages. Proceedings of the International Conference on Modeling Languages and Systems, MODELS 2024, Springer. \textbf{rank A} (to appear)
+% \item Soichiro Hidaka, Massimo Tisi, Jordi Cabot, Zhenjiang Hu: Feature-based classification of bidirectional transformation approaches. Software and System Modeling Journal, Volume 15(3), 2016, Pages 907-928, Springer. \textbf{106 citations}
+% \item Massimo Tisi, Frédéric Jouault, Piero Fraternali, Stefano Ceri, Jean Bézivin: On the Use of Higher-Order Model Transformations. Proceedings of the 5th European Conference on Model Driven Architecture - Foundations and Applications, 2009, Pages 18–33, Springer. \textbf{268 citations}
+% \end{itemize}
+
+\medskip
+{\footnotesize 
+    \href{http://automobile.webratio.com/}{AutoMobile}: EC FP7 Research
+    for SMEs project on Automated Mobile App Development (Principal
+    Investigator, 2013-2015)
+
+    \href{http://www.irccyn.ec-nantes.fr/fr/projets-ivc/projet-streammaster-ivc}{StreamMaster}:
+    Pole Images et Reseaux PME 2011 project on Smart Management of
+    Document Streams (Principal Investigator, 2012-2014)
+
+    \href{https://itea3.org/project/opees.html}{OPEES}: ITEA 2 Call 3
+    project on Open Platform for the Engineering of Embedded Systems
+    (Principal Investigator, 2009-2012)
+}
+
+\subsection{2010 - 2021: Scalability of Model-Driven Engineering}
+The increasing adoption of MDE in industrial contexts highlights scalability as a critical limitation. Indeed, several Model-driven tools show critical efficiency limitations in handling very large models (VLMs), e.g. models made by millions of model elements, not unusual in real-life industrial scenarios. Examples of such models appear both at development time, e.g. while reverse-engineering big systems and at runtime, e.g. coming from a set of sensors, from OpenData repositories or when building applications on social networks. %Moreover, the proliferation of models produced as input-outputs of software engineering tasks at development/maintenance time also highlights scalability problems in the management of the model artifacts.
+In order to tackle the scalability problem I researched solutions on three main axes.
+
+\textbf{Efficient Transformation}. Performing only the strictly required computation on models improves scalability, as only parts of VLM need to be loaded and manipulated. I provided the following support for the efficient execution of MT:
+1) An engine for the incremental execution of MTs, performing only the necessary re-computations; 2) A lazy execution semantics for MTs, delaying the computation to when it is strictly needed; 3) An engine for the event-driven reactive execution of MTs, where the engine performs only the computation needed to react to model updates and requests from the user application.
+
+\textbf{Parallel/Distributed Transformation}. Avoiding unnecessary computation is not always possible, as several transformations perform global algorithms on the whole model. In this scenario, we address scalability by parallelization of the transformation. In this context, I conceived 1) A shared-memory implicit parallel execution engine for the ATL transformation language and 2) A distributed framework for MT on the Map-Reduce programming model. In particular automatic model distribution is performed within the cluster, by a streaming partitioning algorithm over the input model.
+
+\textbf{Efficient Model Persistence}. Very large models need high-performance mechanism for their storage and access. Traditional approaches are file-based, especially XML-based, or rely on relational databases. I investigated innovative mechanisms for model storage, by relying on map-databases, graph-databases and distributed hash-tables. These approaches have converged in the NeoEMF model persistence tool.
+
+%\item \textbf{Distributed Model Transformation}. The popularity of cloud computing increased the availability of high-performance computation resources at a low cost. When performance is a concern of the transformation, being able to deploy it on these resources, and fully exploit them, may be very important. Some MTLs are designed for this, and can automatically perform complex performance optimizations, like finding an optimal distribution of the transformation code over a given cluster. For instance, developing an efficient distributed transformation in a GPL, avoiding all the distribution pitfalls, may be challenging. Dedicated MTLs ask users to describe only the final outcome of the transformation, and can implicitly perform the distribution.
+%I showed that the computation model of ATL aligns nicely with the MapReduce programming model. This correspondence allowed us to create a new version of ATL that automatically distributes over an Hadoop cluster.
+
+\medskip
+{\footnotesize 
+  \href{https://www.lowcomote.eu/}{Lowcomote}: Marie Curie European
+  Training Network (ETN) on Low-Code Engineering Platforms (Coordinator,
+  2019-2023)
+
+  \href{http://www.mondo-project.org/}{MONDO}: EC FP7 STREP project on
+    scalable model-driven engineering (Principal Investigator, 2013-2016)
+}
+
+\subsection{2016 - ongoing: Model Transformation Verification}
+
+With the increasing use of MDE in safety-critical domains (e.g., in automotive industry, medical data processing, aviation), it is crucial to develop techniques and tools that prevent incorrect MTs from generating faulty models. The effects of such faulty models could be unpredictably propagated into subsequent MDE steps, e.g. code generation.
+%For this reason, there is a great need of mechanisms to ensure quality and the absence of errors in models and model transformations. Verification is one of the effective techniques that are typically used to achieve this.
+My work on verification of models and MTs aims at formally guaranteeing that these artifacts satisfy a set of correctness properties. %These properties express certain characteristics that the element under analysis must feature in order to be considered correct. It is typical for verification tools to use formal methods to determine whether the model or model transformation under analysis satisfies the correctness properties under scrutiny.
+
+I have contributed to formalize the execution semantics of the ATL language by translation to the Boogie intermediate verification language. Based on this semantics I have designed a fault localization method, capable of pinpointing the faulty lines of a transformation that does not respect a contracts.
+
+I have designed a new technique for the decomposition of transformation contracts, to improve the efficiency of the automatic verification process on a SMT solver. I have contributed an incremental verification technique, so that after a change to the system, only the impacted part needs to be reverified. This idea greatly increases the applicability of transformation verification in industrial scenarios. 
+
+I designed a new MT language, CoqTL, as an internal language in the Coq theorem prover. I showed that this allows us to efficiently prove interesting properties of MT, and enables further automatic reasoning through proof strategies.  
+
+% \begin{itemize}\footnotesize
+% \item Zheng Cheng, Massimo Tisi, A Deductive Approach for Fault Localization in ATL. European Joint Conferences on Theory and Practice of Software 2017 (ETAPS 2017). \textbf{Nominee for Best Paper Award}
+% \end{itemize}
+
+% \begin{itemize}\footnotesize
+% \item Coordinator for the Lowcomote project: Training the Next Generation of Experts in Scalable Low-Code
+% Engineering Platforms (2019-2023: Marie Curie International Training Network).
+% \item Work-package leader in the MONDO project: Scalable Modeling and Model Management on the Cloud
+% (2013-2016: 7th Framework Programme, STREP 2012). Mention: \textbf{Excellent}.
+% \end{itemize}
+
+\medskip
+{\footnotesize
+  \href{https://megamart2-ecsel.eu/}{MegaM@RT2}: ECSEL project on a
+  scalable model-based framework for continuous development and runtime
+  validation of complex systems (Co-investigator, 2017-2020)
+}
+
+\subsection{2018 - ongoing: Model-Driven Engineering for Digital Transformation}
+
+I applied MDE and low-code to several topics related to digitalization of industrial systems. 
+
+I proposed methodologies and tools to model access control policies over a network of IoT sensors, and to generate runtime monitors that guarantee their respect.
+
+I proposed a methodology for modeling  estimation formulas for energy consumption of cyber-physical systems, and compute estimations by simulation of the system's digital twin. 
+
+I proposed a new software engineering approach (twin-driven engineering), that puts digital twins at the center of the software engineering process from its beginning, by automatically generating digital twins from early design models.
+
+I have recently proposed partial bidirectional transformations, as assets to the engineering of digital twins: ATL is used to encode a complex forward transformation from an abstract model of the structure and state of the digital twin to its concrete 3D representation; at the runtime of the digital twin, the user wants to update some attribute values (e.g., position and orientation of some physical elements) and links (e.g., connections among some physical elements) of the target model; the system formally guarantees that these changes are back-propagated to the abstract models in a well-behaved way. 
+
+Depending on the industrial collaboration, I've applied my methodologies to different digitalization projects: digitalization of the construction equipment domain  for the inclusion of cutting-edge technologies
+(AIDOaRT), runtime monitoring of livestock behavior to evaluate and update epidemiological models  (SEPTIME), rapid evaluation of KPIs over digital twins of manufacturing systems for estimating reconfiguration performance (RODIC).
+
+% \begin{itemize}\footnotesize
+% \item Principal investigator for Ecole des Mines de Nantes in the AutoMobile project: Automated Mobile App
+% Development (2013-2015): 7th Framework Programme, Research for SMEs). Mention: Excellent.
+% \item A Model-Driven Methodology to Accelerate Software Engineering in the Internet of Things. Imad Berrouyne, Mehdi Adda, Jean-Marie Mottu, Massimo Tisi. IEEE Internet of Things Journal 9 (20), 2022, 19757-19772, IEEE. \textbf{10.2 impact factor}
+% \end{itemize}
+
+\medskip
+{\footnotesize
+  \href{https://rodic.ls2n.fr/}{RODIC}: ANR project on Rapid
+  recOnfiguration of manufacturing systems (Co-investigator, 2022-2026)
+
+  \href{https://www6.angers-nantes.inrae.fr/bioepar/Recherche/Projets-en-cours/SEPTIME}{SEPTIME}:
+  Institut Carnot F2E project on a Sensor-Enhanced Projection Tool
+  Informed by an Epidemiological Model (Principal Investigator,
+  2022-2024)
+
+  \href{https://www.aidoart.eu/}{AIDOaRT}: H2020-ECSEL project on
+  AI-augmented automation supporting modeling, coding, testing,
+  monitoring, and continuous development in Cyber-Physical Systems
+  (Co-investigator, 2021-2024)
+}
+
+\subsection{2021 - ongoing: Deep learning for Model-Driven Engineering}
+
+The recent outstanding advancements of deep learning re-ignited the interest on artificial reasoning, and its possible applications to software engineering. Research about applying deep learning to MDE is still in its infancy, but very promising. I am among the first researchers to address it. 
+
+If we want neural networks to learn from sets of models, we need to correctly encode these models as neural network inputs.
+I have proposed an approach for pre-processing model datasets for feeding graph neural networks. The approach is based on a DSL that allows users to configure the main characteristics of the desired encoding. 
+
+I used deep reinforcement learning, to automatically decompose a monolithic system into a microservice architecture, by aligning an abstract manual decomposition at the model level with actual code.
+
+I produced a method to use generative AI (deep generative adversarial networks) to produce structurally realistic modeling artifacts for software engineering. One of the objectives is generating large sets of realistic models that can be used as test sets for testing the correctness of MTs.
+
+I've created an approach and tool, based on heterogeneous graph neural networks, to compute inter-model links that trace related elements in different software models, based on a set of existing examples of such relations.
+
+% \begin{itemize}\footnotesize
+% \item Coordinator for the MOSAICO project: Management, Orchestration and Supervision of AI-agent COmmunities for reliable AI in software engineering (2025-2027: HORIZON-CL4-2024-DIGITAL-EMERGING-01-22:
+% Fundamentals of Software Engineering (RIA))
+% \end{itemize}
+
+\medskip
+
+  {\footnotesize \href{https://www.aidoart.eu/}{AIDOaRT}: H2020-ECSEL project on
+  AI-augmented automation supporting modeling, coding, testing,
+  monitoring, and continuous development in Cyber-Physical Systems
+  (Co-investigator, 2021-2024)}
+
+\section{Teaching}
+
+During my phd I accumulated a significant experience in teaching assistance for a wide range of courses in the Information Engineering degree, and I started giving lectures on Operating Systems and Technological Culture. 
+
+During my postdoc at IMT Atlantique (Ecole de Mines de Nantes at the time), I have been involved in the MDE diploma (a post-master specialization on MDE) where I designed the course on Higher-Order Transformations. This was my first, very positive experience with students with strong industrial background.
+
+After obtaining the position of Maitre Assistant, I started teaching in the first years of the main track of the engineering master (FING), by supervising several student projects. Given my background in databases, I took the responsibility of the Database course, that I kept teaching until 2022. In the course I designed, after a first introduction, every lesson was following a Project and Problem-Based Learning (Apprentissage par Projet et par Problème - APP), an approach in which I strongly believed.
+
+Since 2013 I also contribute to the courses of Sensibilization to Research with a focus on MDE research, and Collaborative Development (CODEVSI, formerly PRIME) where I teach the git distributed versioning system. 
+
+In 2013 I started a course on my research area, specifically focused on Domain-Specific Languages (DSLs). I went on teaching DSLs at the last year of the specialization in Software Engineering (GSI) and at the last year of the Apprenticeship Engineer, Software Engineering Specialization (FIL). The course (first in its kind, to my knowledge) is combining theoretical notions on the design and implementation of DSLs with a concrete application scenario. Each year, a set of requirements for a given DSL is given to the students at the first lesson. At every following lessons new theory is explained, and the students apply it autonomously to the given DSL, that works as a red herring for the course. This resulted in a very motivating and engaging experience. 
+
+Given the success of the DSL course, in 2015 I split it in two courses, by adding a new course named Model-Driven Engineering to the last year of FIL. While the DSLs course teaches how to produce a (domain-specific) modeling language, the MDE course teaches how to use it efficiently and integrate it with the engineering process. 
+
+In 2023 I started a new course (replacing DSLs and MDE) named Language Engineering. The idea of the course has been coupling my previous courses with theory on compiler construction, that was removed from the first years in the evolution of the program of the FIL specialization. 
+
+In 2022 I assumed the co-responsibility of the DCL TAF, to ensure the transition to a new responsible in 2023.  
+
+\medskip
+In 2021 I started a course on Software Engineering and Modeling for the Apprenticeship Engineer, Digital Transformation Specialization (FIT). The course aims at teaching software engineering to students that do now have a strong coding background. The solution I adopted is to illustrate all phases of the software engineering process at the level of software models, with only very sporadic appearances of actual code. This "low-code" approach to teaching software engineering is very innovative, and the feedback from student at councils has been very positive. More in general, I contribute to the definition of the role of software engineering in the FIT specialization, and push for an extension of this low-code approach in future.
+
+
+
+\medskip 
+
+In 2023 I assumed the co-responsibility of the FIL specialization, together with courses that are traditionally held by the FIL responsible (Agile Project, Conferences and Testimonies). 
+I took this role as a unique opportunity to: find synergies between my research, valorization and teaching; exploit the bird-eye view on software engineering obtained by 20 years of research on MDE; strengthen my link with the software engineering industry in France; propose new evolutions towards subjects that are becoming of primary importance in the software engineering field, like generative AI. This role caps my long time experience with FIL students, that I always appreciated for being especially mature, technically competent and motivated.
+
+\end{document}
