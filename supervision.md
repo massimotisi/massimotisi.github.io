@@ -39,7 +39,7 @@ I have participated to the thesis review or defense jury of the following phd st
 * Elena Planas Hortal (thesis reviewer, 2013, Universitat Oberta de Catalunya)
 * Medhi Iraqi (jury member, 15 September 2014, Ecole Nationale Supérieure d'Arts et Métiers - CER d'Aix-en-Provence)
 
-I have participated to the supervision committee (CSI) of the following phd students:
+I have participated to the individual monitoring committee (CSI) of the following phd students:
 
 * Chahrazed Boudjemila (IMT Atlantique)
 * Maxime Mere (INSA Rennes)
