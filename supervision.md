@@ -41,6 +41,7 @@ I have participated to the thesis review or defense jury of the following phd st
 
 I have participated to the individual monitoring committee (CSI) of the following phd students:
 
+* Faima Abbasi (LIST Luxembourg)
 * Chahrazed Boudjemila (IMT Atlantique)
 * Maxime Mere (INSA Rennes)
 * Vianney Sicard (INRAE)
