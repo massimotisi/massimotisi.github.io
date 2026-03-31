@@ -10,7 +10,7 @@ I am co-responsible at IMT Atlantique of the [Software Engineering Apprenticeshi
 
 I have been responsible for the following courses and student projects at [IMT Atlantique](https://www.imt-atlantique.fr/), formerly at Ecole de Mines de Nantes.
 
-* Large-Language Models 
+* Large-Language Models (FISE-A2, FISE-A3, ~50 students per year): [2025-2026](https://moodle.imt-atlantique.fr/course/view.php?id=2547)
 * Probability and Statistics (FIL-A2, ~30 students per year): [2024-2025](https://moodle.imt-atlantique.fr/course/view.php?id=946), [2025-2026](https://moodle.imt-atlantique.fr/course/view.php?id=946)
 * Software Engineering and Modeling (FIT-A2, ~30 students per year): [2021-2022](https://moodle.imt-atlantique.fr/course/view.php?id=1481), [2022-2023](https://moodle.imt-atlantique.fr/course/view.php?id=1481), [2023-2024](https://moodle.imt-atlantique.fr/course/view.php?id=1481), [2024-2025](https://moodle.imt-atlantique.fr/course/view.php?id=1481), [2025-2026](https://moodle.imt-atlantique.fr/course/view.php?id=1481)
   * Software Design and Architecture, Unified Modeling Language (UML), Model-Driven Development (MDD), Software Testing and Validation.
