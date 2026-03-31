@@ -8,11 +8,15 @@ Since 2022 I am member of the council of the [SPIN Doctoral School](https://ed-s
 
 I have co-supervised the following PhD students:
 
-* James Pontes Miranda, 2022-ongoing, Title: "AI-Augmented Support for Model Views", Supervision 40%, Director: Massimo Tisi, LS2N
+* Lena Bamouh, 2025-ongoing, Supervision 40%, Director: Massimo Tisi, LS2N
+* Yassine Elmouhi, 2025-ongoing, Supervision 40%, Director: Massimo Tisi, LS2N
+* Nouhaila Mraikh, 2025-ongoing, Supervision 30%, Director: Sebastien Picault, Oniris
+* Zakaria Hachm, 2025-ongoing, Supervision 30%, Director: Hugo Bruneliere, LS2N
 * Matthew Coyle, 2022-ongoing, Title: "Automated reconfiguration by AI-augmented model transformation", Supervision 30%, Director: Samir Loudni, LS2N
-* Josselin Enet, 2021-ongoing, Title: "Protocol-based Generic Tooling for Domain-Specific Languages", Supervision 30%, Director: Gerson Sunyè, LS2N
-* Zahra Rajaei, 2018-ongoing, Title: "A model-driven framework for leveraging graph deep learning in model-driven engineering", Advisor, Director: Shekoufeh Kolahdouz-Rahimi, University of Isfahan, Iran
+<!-- Zahra Rajaei, 2018-ongoing, Title: "A model-driven framework for leveraging graph deep learning in model-driven engineering", Advisor, Director: Shekoufeh Kolahdouz-Rahimi, University of Isfahan, Iran --> 
 
+* James Pontes Miranda, 2022-2025, Title: "AI-Augmented Support for Model Views", Supervision 40%, Director: Massimo Tisi, LS2N
+* Josselin Enet, 2021-2024, Title: "Protocol-based Generic Tooling for Domain-Specific Languages", Supervision 30%, Director: Gerson Sunyè, LS2N
 * Jolan Philippe, 2020-2022, Title: "Contribution to the Analysis of the Design-Space of a Distributed Transformation Engine", Supervision 30%, Director: Gerson Sunyè, LS2N
 * Joachim Hotonnier, 2018-2021 (abandoned), Title: "Deep Specification for Domain-Specific Modeling", Supervision 30%, Director: Gerson Sunyè, LS2N
 * Thibault Béziers la Fosse, 2018-2021, Title: "Model-driven   Methods for Dynamic Analysis applied to Energy-Aware Software
