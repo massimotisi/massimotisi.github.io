@@ -4,7 +4,9 @@ layout: home
 
 I am a Full Professor in the [Department of Automation, Production and Computer Science (DAPI)](https://www.imt-atlantique.fr/en/about/departments/dapi) of [IMT Atlantique](http://www.imt-atlantique.fr/) (Nantes, France). I am co-responsible at IMT Atlantique of the [Software Engineering Apprenticeship Specialization (FIL)](https://www.imt-atlantique.fr/en/study/apprenticeship-engineer/software-engineering-specialisation). 
 
-I'm leading the [Naomod](https://naomod.github.io/) team ([LS2N, UMR CNRS 6004](http://ls2n.fr/)). I research and teach [model-driven engineering](https://en.wikipedia.org/wiki/Model-driven_engineering) and [software language engineering](https://en.wikipedia.org/wiki/Domain-specific_language). I have contributed to the design of several tools related to the [Eclipse Modeling Project](https://www.eclipse.org/modeling/), especially the [ATL transformation language](https://www.eclipse.org/atl/). I coordinated the [Lowcomote](https://lowcomote.eu/) Marie Curie European Training Network. Previously I have been a member of the Databases group in [Politecnico di Milano](http://www.polimi.it/en/english-version/) (Italy).
+I'm leading the [Naomod](https://naomod.github.io/) team ([LS2N, UMR CNRS 6004](http://ls2n.fr/)). I research and teach [model-driven engineering](https://en.wikipedia.org/wiki/Model-driven_engineering) and [software language engineering](https://en.wikipedia.org/wiki/Domain-specific_language). I have contributed to the design of several tools related to the [Eclipse Modeling Project](https://www.eclipse.org/modeling/), especially the [ATL transformation language](https://www.eclipse.org/atl/). Previously I have been a member of the Databases group in [Politecnico di Milano](http://www.polimi.it/en/english-version/) (Italy).
+
+I coordinate the [MOSAICO](https://lowcomote.eu/) Horizon Europe RIA on Management, Orchestration and Supervision of AI-agent Communities, and coordinated the [Lowcomote](https://lowcomote.eu/) Marie Curie European Training Network.
 
 In most of my current research I investigate:
 
