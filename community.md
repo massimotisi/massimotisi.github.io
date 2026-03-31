@@ -62,7 +62,7 @@ I have served as co-organizer and reviewer for the following venues.
 
 # Other activities
 
-* Monitoring and Evaluation Committee at the Pôle Images & Réseaux: [2017](http://www.images-et-reseaux.com/en) (Member), [2018](http://www.images-et-reseaux.com/en) (Member), [2019](http://www.images-et-reseaux.com/en) (Member), [2020](http://www.images-et-reseaux.com/en) (Member), [2021](http://www.images-et-reseaux.com/en) (Member), [2022](http://www.images-et-reseaux.com/en) (Member), [2023](http://www.images-et-reseaux.com/en) (Member), [2024](http://www.images-et-reseaux.com/en) (Member)
+* Monitoring and Evaluation Committee at the Pôle Images & Réseaux: [2017](http://www.images-et-reseaux.com/en) (Member), [2018](http://www.images-et-reseaux.com/en) (Member), [2019](http://www.images-et-reseaux.com/en) (Member), [2020](http://www.images-et-reseaux.com/en) (Member), [2021](http://www.images-et-reseaux.com/en) (Member), [2022](http://www.images-et-reseaux.com/en) (Member), [2023](http://www.images-et-reseaux.com/en) (Member), [2024](http://www.images-et-reseaux.com/en) (Member), [2025](http://www.images-et-reseaux.com/en) (Member), [2026](http://www.images-et-reseaux.com/en) (Member)
 * MEASURE Industrial Workshop: [2018](http://measure.softeam-rd.eu/events-workshops/itea3measureindustrialworkshopeventinnanteson15thjune2018) (**Keynote speaker**)
 * Journées RT3: [2014](https://rth3.wp.mines-telecom.fr/journees-rt3/) (Panelist)
 * Cantine Research Labs at Cantine Numerique: [2012](https://guestlist.co/events/89283/) (Speaker)
