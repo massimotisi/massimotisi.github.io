@@ -6,6 +6,8 @@ order: 4
 
 I have participated for the [NaoMod](https://naomod.github.io/) team to the following funded collaborative projects:
 
+* [MOSAICO](https://mosaico-project.eu/): Horizon Europe RIA on Management, Orchestration and Supervision of AI-agent Communities for reliable AI in software engineering (**Coordinator**, 2025-2027)
+* [MATISSE](https://matisse-kdt.eu/): European HORIZON-CHIPS-JU project on Model-based engineering of Digital Twins for early verification and validation of Industrial Systems (Co-investigator, 2024-2026)
 * [RODIC](https://rodic.ls2n.fr/): ANR project on Rapid recOnfiguration of manufacturing systems (Co-investigator, 2022-2026)
 * [SEPTIME](https://www6.angers-nantes.inrae.fr/bioepar/Recherche/Projets-en-cours/SEPTIME): Institut Carnot F2E project on a Sensor-Enhanced Projection Tool Informed by an Epidemiological Model (Principal Investigator, 2022-2024)
 * [AIDOaRT](https://www.aidoart.eu/): H2020-ECSEL project on AI-augmented automation supporting modeling, coding, testing, monitoring, and continuous development in Cyber-Physical Systems (Co-investigator, 2021-2024)
