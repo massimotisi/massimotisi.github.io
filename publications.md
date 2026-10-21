@@ -21,7 +21,7 @@ You can find the list of my publications on [DBLP](http://dblp.uni-trier.de/pers
 </tr>
 </table> -->
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="10000" src="https://hal.science/search/index/?qa[authIdHal_s][]=massimo-tisi"/>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="10000" src="https://hal.science/search/index/?qa%5BauthIdHal_s%5D%5B%5D=massimo-tisi&rows=30&sort=publicationDate_tdate+desc"/>
 
 <!--
 Here are my current favorites:
