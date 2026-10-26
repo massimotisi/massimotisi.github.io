@@ -43,6 +43,7 @@ I have served as co-organizer and reviewer for the following venues.
 
 # Academic workshops
 
+* Workshop on Agentic AI for Next-Generation Software Development (AgenticDev): [2026](https://conf.researchr.org/home/ase-2026/agenticdev-2026) (PC Member)
 * Workshop on Artificial Intelligence and Model-driven Engineering (MDE Intelligence): [2024](https://mde-intelligence.github.io/) (PC Member), [2025](https://mde-intelligence.github.io/) (PC Member)
 * International Workshop on Modeling in Low-Code Development Platforms (Lowcode): [2020](https://lowcode-workshop.github.io/) (**Co-Organizer**),  [2021](https://lowcode-workshop.github.io/) (**Co-Organizer**), [2022](https://lowcode-workshop.github.io/) (**Co-Organizer**), [2023](https://lowcode-workshop.github.io/) (**Co-Organizer**), [2024](https://lowcode-workshop.github.io/) (**Co-Organizer**)
 * International Workshop on Model Management (MoM): [2024](https://mom2024.wp.imt.fr/) (PC Member)
